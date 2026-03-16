@@ -1,130 +1,147 @@
-# Exploratory Data Analysis (EDA) -- Assignment 1
+
+# Exploratory Data Analysis (EDA) – Assignment 1
 
 ## Course
-
 Statistical Learning and Data Analysis
 
 ## Project Overview
+This project performs a full Exploratory Data Analysis (EDA) on a dataset as part of Assignment 1. 
+The objective is to understand the structure of the data, explore distributions, analyze relationships 
+between variables, and apply dimensionality reduction and clustering techniques.
 
-This project performs a **complete Exploratory Data Analysis (EDA)** on
-a selected dataset.\
-The objective is to understand the dataset structure, identify patterns,
-visualize relationships between variables, and apply dimensionality
-reduction and clustering techniques.
+The analysis is implemented in the notebook **EDA.ipynb**.
 
-The analysis follows the requirements described in the assignment brief.
-fileciteturn0file0
+---
 
-------------------------------------------------------------------------
-
-# Project Structure
-
-    project/
-    │
-    ├── data/                 # Dataset used for the analysis
-    ├── notebooks/
-    │   └── eda_analysis.ipynb
-    ├── figures/              # Generated plots and visualizations
-    ├── README.md             # Project documentation
-
-------------------------------------------------------------------------
-
-# Assignment Tasks
+# Project Workflow
 
 ## 1. Data Loading & Cleaning
+- Import the dataset
+- Display the first rows of the dataset
+- Identify variable names and data types
+- Determine the number of observations and variables
+- Check for missing values and their proportions
+- Handle missing values using removal or imputation if necessary
 
--   Import the dataset
--   Display first rows of the dataset
--   Identify variable names and data types
--   Count observations and variables
--   Detect missing values and their proportions
--   Handle missing values using appropriate techniques (removal or
-    imputation)
+---
 
 ## 2. Univariate Data Description
 
--   Compute descriptive statistics:
-    -   Mean
-    -   Median
-    -   Minimum
-    -   Maximum
-    -   Standard deviation
--   Create frequency tables for categorical variables
--   Plot:
-    -   Histograms
-    -   Boxplots
-    -   Bar charts / Pie charts
+### Numerical Variables
+- Compute descriptive statistics:
+  - Mean
+  - Median
+  - Minimum
+  - Maximum
+  - Standard deviation
 
-Goal: Understand the distribution of each variable.
+- Visualizations:
+  - Histograms
+  - Boxplots
+
+Observation example:
+Many numeric variables show **right‑skewed distributions**, meaning most values are small while a few observations are very large.
+
+### Categorical Variables
+- Create frequency tables
+- Visualize using:
+  - Bar charts
+  - Pie charts
+
+Goal:
+Identify the most frequent categories and understand the distribution of categorical variables.
+
+---
 
 ## 3. Bivariate and Multivariate Analysis
 
--   Compute correlations between numerical variables
--   Visualize correlations with a **heatmap**
--   Create **scatterplots** to analyze relationships
--   Compare distributions of numeric variables across categories
--   Build **contingency tables** for categorical variables
+### Correlation Analysis
+- Compute correlations among numeric variables
+- Visualize correlations using a **heatmap**
 
-Goal: Discover relationships between variables.
+Observation:
+Most numeric variables show **very weak correlations**, suggesting they are largely independent.
+
+### Scatterplot Analysis
+Scatterplots are used to explore relationships between pairs of numeric variables and detect:
+- Linear relationships
+- Nonlinear relationships
+- Outliers
+
+### Category Comparison
+Distribution of numeric variables is compared across categorical groups.
+
+### Contingency Tables
+Used to explore relationships between categorical variables.
+
+---
 
 ## 4. Principal Component Analysis (PCA) and Clustering
 
-### PCA
+### Data Preparation
+- Categorical variables encoded using **One‑Hot Encoding**
+- Features scaled using **standardization**
 
--   Scale and encode variables
--   Apply **Principal Component Analysis**
--   Determine number of components explaining **≥ 80% variance**
--   Visualize:
-    -   Correlation circle
-    -   PCA biplot
+### PCA
+Principal Component Analysis is applied to reduce dimensionality.
+
+Goals:
+- Identify the number of components explaining **at least 80% of variance**
+- Visualize:
+  - Correlation circle
+  - PCA biplot
+
+Observation:
+The first principal components capture the most important directions of variance in the dataset.
 
 ### Clustering
 
--   Select a clustering algorithm (e.g., K-Means)
--   Determine the optimal number of clusters
--   Visualize cluster results
--   Evaluate cluster separation
+Algorithm used:
+**K‑Means Clustering**
 
-Goal: Identify patterns and groups within the data.
+Steps:
+1. Determine optimal number of clusters using the **Elbow Method**
+2. Fit K‑Means model
+3. Visualize clusters in PCA space
+
+Observation:
+Clusters are **moderately separated**, indicating some structure in the dataset.
+
+---
 
 ## 5. Summary and Interpretation
 
-Provide a short summary including: - Main characteristics of the
-dataset - Important patterns discovered - Differences between groups or
-clusters - Key insights from the analysis
+Key findings:
+- Most numeric variables show skewed distributions.
+- Correlations between numeric features are generally weak.
+- PCA effectively reduces dimensionality while preserving most variance.
+- K‑Means clustering identifies groups with moderate separation.
 
-------------------------------------------------------------------------
+Overall, the analysis reveals patterns in the dataset and helps understand its structure through statistical summaries and visualizations.
 
-# Output Requirements
+---
 
-The final submission must include:
+# Project Files
 
-1.  **Analysis Notebook**
-    -   `.ipynb` or `.Rmd`
-    -   Includes code, plots, and interpretations
-2.  **Exported Report**
-    -   `.pdf` or `.html`
-3.  **Presentation**
-    -   Short slides for exam discussion
-    -   Focus on **interpretation and results**
-    -   Use clear visuals and minimal text
+```
+EDA.ipynb      → Main notebook containing the full analysis
+README.md      → Project documentation
+data/          → Dataset used in the analysis
+figures/       → Generated plots and visualizations
+```
 
-------------------------------------------------------------------------
+---
 
-# Tools and Libraries
+# Technologies Used
 
-Example tools used for the analysis:
+Python Libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit‑learn
 
-Python: - pandas - numpy - matplotlib - seaborn - scikit-learn
+---
 
-OR
-
-R: - tidyverse - ggplot2 - dplyr - factoextra
-
-------------------------------------------------------------------------
-
-# Goal of the Project
-
-The main goal is to **extract meaningful insights from data using
-exploratory techniques**, statistical summaries, and machine learning
-methods such as PCA and clustering.
+# Author
+Statistical Learning and Data Analysis – Assignment 1
