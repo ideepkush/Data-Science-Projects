@@ -144,4 +144,5 @@ Python Libraries:
 ---
 
 # Author
-Statistical Learning and Data Analysis – Assignment 1
+Deepak Kushwaha
+
