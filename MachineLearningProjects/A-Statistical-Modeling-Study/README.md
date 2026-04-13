@@ -1,4 +1,4 @@
-# 📊 Statistical Learning and Data Analysis – Assignment 2  
+# 📊 Statistical Learning and Data Analysis 
 ### Probability Models Comparison: Poisson vs Exponential
 
 **Author:** Deepak Kushwaha  
