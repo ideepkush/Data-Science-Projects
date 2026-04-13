@@ -1,5 +1,5 @@
 
-# Exploratory Data Analysis (EDA) – Assignment 1
+# Exploratory Data Analysis (EDA) 
 
 ## Course
 Statistical Learning and Data Analysis
