@@ -1,4 +1,4 @@
-# Assignment 3: Bank Regression Simulation
+Bank Regression Simulation
 
 ## 📌 Project Overview
 This project examines the performance of different regression methodologies under a controlled simulation framework. By implementing classical linear regression, penalized regression techniques, and non-linear modeling, we evaluate coefficient estimation accuracy, model robustness, the impact of shrinkage, and the bias–variance trade-off. 
