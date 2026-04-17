@@ -1,0 +1,4786 @@
+prompt,intent
+wake me up 0,alarm
+morning alarm 1,alarm
+set an alarm 2,alarm
+set an alarm 3,alarm
+set an alarm 4,alarm
+set an alarm 0,alarm
+set an alarm 1,alarm
+set an alarm 2,alarm
+alarm for tomorrow 3,alarm
+set an alarm 4,alarm
+morning alarm 0,alarm
+alarm for tomorrow 1,alarm
+morning alarm 2,alarm
+set an alarm 3,alarm
+alarm for tomorrow 4,alarm
+wake me up 0,alarm
+morning alarm 1,alarm
+alarm for tomorrow 2,alarm
+alarm for tomorrow 3,alarm
+alarm for tomorrow 4,alarm
+alarm for tomorrow 0,alarm
+alarm for tomorrow 1,alarm
+wake me up 2,alarm
+morning alarm 3,alarm
+alarm for tomorrow 4,alarm
+set an alarm 0,alarm
+morning alarm 1,alarm
+morning alarm 2,alarm
+alarm for tomorrow 3,alarm
+wake me up 4,alarm
+alarm for tomorrow 0,alarm
+morning alarm 1,alarm
+set an alarm 2,alarm
+alarm for tomorrow 3,alarm
+alarm for tomorrow 4,alarm
+set an alarm 0,alarm
+wake me up 1,alarm
+wake me up 2,alarm
+set an alarm 3,alarm
+set an alarm 4,alarm
+wake me up 0,alarm
+alarm for tomorrow 1,alarm
+wake me up 2,alarm
+morning alarm 3,alarm
+morning alarm 4,alarm
+set an alarm 0,alarm
+morning alarm 1,alarm
+set an alarm 2,alarm
+alarm for tomorrow 3,alarm
+wake me up 4,alarm
+wake me up 0,alarm
+alarm for tomorrow 1,alarm
+alarm for tomorrow 2,alarm
+wake me up 3,alarm
+alarm for tomorrow 4,alarm
+wake me up 0,alarm
+morning alarm 1,alarm
+set an alarm 2,alarm
+set an alarm 3,alarm
+wake me up 4,alarm
+wake me up 0,alarm
+set an alarm 1,alarm
+wake me up 2,alarm
+alarm for tomorrow 3,alarm
+alarm for tomorrow 4,alarm
+set an alarm 0,alarm
+wake me up 1,alarm
+morning alarm 2,alarm
+alarm for tomorrow 3,alarm
+morning alarm 4,alarm
+morning alarm 0,alarm
+morning alarm 1,alarm
+morning alarm 2,alarm
+alarm for tomorrow 3,alarm
+wake me up 4,alarm
+wake me up 0,alarm
+wake me up 1,alarm
+set an alarm 2,alarm
+wake me up 3,alarm
+set an alarm 4,alarm
+alarm for tomorrow 0,alarm
+morning alarm 1,alarm
+wake me up 2,alarm
+alarm for tomorrow 3,alarm
+wake me up 4,alarm
+set an alarm 0,alarm
+morning alarm 1,alarm
+set an alarm 2,alarm
+alarm for tomorrow 3,alarm
+alarm for tomorrow 4,alarm
+morning alarm 0,alarm
+wake me up 1,alarm
+set an alarm 2,alarm
+alarm for tomorrow 3,alarm
+wake me up 4,alarm
+morning alarm 0,alarm
+set an alarm 1,alarm
+alarm for tomorrow 2,alarm
+alarm for tomorrow 3,alarm
+morning alarm 4,alarm
+wake me up 0,alarm
+alarm for tomorrow 1,alarm
+alarm for tomorrow 2,alarm
+alarm for tomorrow 3,alarm
+set an alarm 4,alarm
+set an alarm 0,alarm
+wake me up 1,alarm
+morning alarm 2,alarm
+wake me up 3,alarm
+morning alarm 4,alarm
+wake me up 0,alarm
+wake me up 1,alarm
+wake me up 2,alarm
+wake me up 3,alarm
+set an alarm 4,alarm
+morning alarm 0,alarm
+wake me up 1,alarm
+wake me up 2,alarm
+morning alarm 3,alarm
+set an alarm 4,alarm
+set an alarm 0,alarm
+set an alarm 1,alarm
+alarm for tomorrow 2,alarm
+wake me up 3,alarm
+morning alarm 4,alarm
+set an alarm 0,alarm
+morning alarm 1,alarm
+wake me up 2,alarm
+wake me up 3,alarm
+set an alarm 4,alarm
+wake me up 0,alarm
+wake me up 1,alarm
+wake me up 2,alarm
+wake me up 3,alarm
+wake me up 4,alarm
+wake me up 0,alarm
+wake me up 1,alarm
+set an alarm 2,alarm
+morning alarm 3,alarm
+alarm for tomorrow 4,alarm
+alarm for tomorrow 0,alarm
+alarm for tomorrow 1,alarm
+wake me up 2,alarm
+wake me up 3,alarm
+set an alarm 4,alarm
+set an alarm 0,alarm
+alarm for tomorrow 1,alarm
+wake me up 2,alarm
+set an alarm 3,alarm
+morning alarm 4,alarm
+morning alarm 0,alarm
+alarm for tomorrow 1,alarm
+set an alarm 2,alarm
+wake me up 3,alarm
+wake me up 4,alarm
+morning alarm 0,alarm
+alarm for tomorrow 1,alarm
+wake me up 2,alarm
+wake me up 3,alarm
+morning alarm 4,alarm
+morning alarm 0,alarm
+set an alarm 1,alarm
+set an alarm 2,alarm
+alarm for tomorrow 3,alarm
+set an alarm 4,alarm
+wake me up 0,alarm
+morning alarm 1,alarm
+set an alarm 2,alarm
+set an alarm 3,alarm
+morning alarm 4,alarm
+start songs 0,play_music
+play party music 1,play_music
+start songs 2,play_music
+play music 3,play_music
+start songs 4,play_music
+play music 0,play_music
+play relaxing music 1,play_music
+play relaxing music 2,play_music
+start songs 3,play_music
+play relaxing music 4,play_music
+play music 0,play_music
+play relaxing music 1,play_music
+start songs 2,play_music
+play party music 3,play_music
+start songs 4,play_music
+start songs 0,play_music
+start songs 1,play_music
+start songs 2,play_music
+start songs 3,play_music
+start songs 4,play_music
+play music 0,play_music
+play party music 1,play_music
+play relaxing music 2,play_music
+play relaxing music 3,play_music
+play music 4,play_music
+play party music 0,play_music
+play party music 1,play_music
+start songs 2,play_music
+play music 3,play_music
+play relaxing music 4,play_music
+start songs 0,play_music
+start songs 1,play_music
+play relaxing music 2,play_music
+play relaxing music 3,play_music
+play music 4,play_music
+play party music 0,play_music
+start songs 1,play_music
+play relaxing music 2,play_music
+play party music 3,play_music
+play party music 4,play_music
+play music 0,play_music
+start songs 1,play_music
+play music 2,play_music
+play relaxing music 3,play_music
+play party music 4,play_music
+start songs 0,play_music
+start songs 1,play_music
+play relaxing music 2,play_music
+play party music 3,play_music
+play music 4,play_music
+play party music 0,play_music
+play party music 1,play_music
+play relaxing music 2,play_music
+play relaxing music 3,play_music
+play music 4,play_music
+play relaxing music 0,play_music
+play music 1,play_music
+play party music 2,play_music
+start songs 3,play_music
+start songs 4,play_music
+play party music 0,play_music
+play party music 1,play_music
+play music 2,play_music
+play music 3,play_music
+play relaxing music 4,play_music
+play music 0,play_music
+play party music 1,play_music
+start songs 2,play_music
+play music 3,play_music
+play music 4,play_music
+play relaxing music 0,play_music
+start songs 1,play_music
+start songs 2,play_music
+play music 3,play_music
+start songs 4,play_music
+play relaxing music 0,play_music
+start songs 1,play_music
+play music 2,play_music
+play music 3,play_music
+play music 4,play_music
+play party music 0,play_music
+play relaxing music 1,play_music
+play music 2,play_music
+play party music 3,play_music
+play relaxing music 4,play_music
+start songs 0,play_music
+play relaxing music 1,play_music
+play music 2,play_music
+start songs 3,play_music
+play music 4,play_music
+play relaxing music 0,play_music
+start songs 1,play_music
+play relaxing music 2,play_music
+play music 3,play_music
+play party music 4,play_music
+start songs 0,play_music
+play party music 1,play_music
+start songs 2,play_music
+play relaxing music 3,play_music
+start songs 4,play_music
+play music 0,play_music
+play party music 1,play_music
+play music 2,play_music
+play relaxing music 3,play_music
+play music 4,play_music
+play music 0,play_music
+play music 1,play_music
+start songs 2,play_music
+play party music 3,play_music
+play party music 4,play_music
+play party music 0,play_music
+play party music 1,play_music
+play music 2,play_music
+start songs 3,play_music
+play party music 4,play_music
+play music 0,play_music
+play relaxing music 1,play_music
+play relaxing music 2,play_music
+play music 3,play_music
+start songs 4,play_music
+start songs 0,play_music
+play relaxing music 1,play_music
+start songs 2,play_music
+play party music 3,play_music
+play relaxing music 4,play_music
+play party music 0,play_music
+play music 1,play_music
+play party music 2,play_music
+play party music 3,play_music
+play party music 4,play_music
+play party music 0,play_music
+start songs 1,play_music
+start songs 2,play_music
+play music 3,play_music
+play music 4,play_music
+play music 0,play_music
+play relaxing music 1,play_music
+start songs 2,play_music
+play party music 3,play_music
+start songs 4,play_music
+play relaxing music 0,play_music
+play party music 1,play_music
+start songs 2,play_music
+play music 3,play_music
+play party music 4,play_music
+play relaxing music 0,play_music
+play music 1,play_music
+play music 2,play_music
+play party music 3,play_music
+play party music 4,play_music
+play relaxing music 0,play_music
+play relaxing music 1,play_music
+start songs 2,play_music
+start songs 3,play_music
+play relaxing music 4,play_music
+play party music 0,play_music
+play party music 1,play_music
+start songs 2,play_music
+play music 3,play_music
+start songs 4,play_music
+play music 0,play_music
+start songs 1,play_music
+play relaxing music 2,play_music
+start songs 3,play_music
+start songs 4,play_music
+start songs 0,play_music
+start songs 1,play_music
+start songs 2,play_music
+start songs 3,play_music
+play party music 4,play_music
+tell a joke 0,jokes_fun
+tell a joke 1,jokes_fun
+another joke 2,jokes_fun
+another joke 3,jokes_fun
+make me laugh 4,jokes_fun
+funny joke 0,jokes_fun
+tell a joke 1,jokes_fun
+make me laugh 2,jokes_fun
+make me laugh 3,jokes_fun
+make me laugh 4,jokes_fun
+make me laugh 0,jokes_fun
+another joke 1,jokes_fun
+another joke 2,jokes_fun
+another joke 3,jokes_fun
+funny joke 4,jokes_fun
+funny joke 0,jokes_fun
+funny joke 1,jokes_fun
+tell a joke 2,jokes_fun
+another joke 3,jokes_fun
+make me laugh 4,jokes_fun
+make me laugh 0,jokes_fun
+funny joke 1,jokes_fun
+make me laugh 2,jokes_fun
+tell a joke 3,jokes_fun
+funny joke 4,jokes_fun
+make me laugh 0,jokes_fun
+funny joke 1,jokes_fun
+tell a joke 2,jokes_fun
+tell a joke 3,jokes_fun
+make me laugh 4,jokes_fun
+another joke 0,jokes_fun
+make me laugh 1,jokes_fun
+make me laugh 2,jokes_fun
+funny joke 3,jokes_fun
+another joke 4,jokes_fun
+make me laugh 0,jokes_fun
+another joke 1,jokes_fun
+tell a joke 2,jokes_fun
+funny joke 3,jokes_fun
+funny joke 4,jokes_fun
+another joke 0,jokes_fun
+funny joke 1,jokes_fun
+another joke 2,jokes_fun
+make me laugh 3,jokes_fun
+tell a joke 4,jokes_fun
+make me laugh 0,jokes_fun
+another joke 1,jokes_fun
+tell a joke 2,jokes_fun
+another joke 3,jokes_fun
+tell a joke 4,jokes_fun
+make me laugh 0,jokes_fun
+funny joke 1,jokes_fun
+funny joke 2,jokes_fun
+funny joke 3,jokes_fun
+funny joke 4,jokes_fun
+another joke 0,jokes_fun
+another joke 1,jokes_fun
+make me laugh 2,jokes_fun
+another joke 3,jokes_fun
+funny joke 4,jokes_fun
+make me laugh 0,jokes_fun
+funny joke 1,jokes_fun
+make me laugh 2,jokes_fun
+tell a joke 3,jokes_fun
+make me laugh 4,jokes_fun
+funny joke 0,jokes_fun
+funny joke 1,jokes_fun
+funny joke 2,jokes_fun
+tell a joke 3,jokes_fun
+make me laugh 4,jokes_fun
+another joke 0,jokes_fun
+another joke 1,jokes_fun
+another joke 2,jokes_fun
+funny joke 3,jokes_fun
+make me laugh 4,jokes_fun
+another joke 0,jokes_fun
+tell a joke 1,jokes_fun
+funny joke 2,jokes_fun
+make me laugh 3,jokes_fun
+another joke 4,jokes_fun
+funny joke 0,jokes_fun
+funny joke 1,jokes_fun
+tell a joke 2,jokes_fun
+another joke 3,jokes_fun
+another joke 4,jokes_fun
+another joke 0,jokes_fun
+another joke 1,jokes_fun
+tell a joke 2,jokes_fun
+funny joke 3,jokes_fun
+make me laugh 4,jokes_fun
+make me laugh 0,jokes_fun
+another joke 1,jokes_fun
+tell a joke 2,jokes_fun
+tell a joke 3,jokes_fun
+funny joke 4,jokes_fun
+tell a joke 0,jokes_fun
+tell a joke 1,jokes_fun
+tell a joke 2,jokes_fun
+make me laugh 3,jokes_fun
+another joke 4,jokes_fun
+make me laugh 0,jokes_fun
+another joke 1,jokes_fun
+funny joke 2,jokes_fun
+make me laugh 3,jokes_fun
+tell a joke 4,jokes_fun
+make me laugh 0,jokes_fun
+funny joke 1,jokes_fun
+another joke 2,jokes_fun
+funny joke 3,jokes_fun
+tell a joke 4,jokes_fun
+tell a joke 0,jokes_fun
+tell a joke 1,jokes_fun
+tell a joke 2,jokes_fun
+funny joke 3,jokes_fun
+another joke 4,jokes_fun
+another joke 0,jokes_fun
+another joke 1,jokes_fun
+tell a joke 2,jokes_fun
+funny joke 3,jokes_fun
+another joke 4,jokes_fun
+another joke 0,jokes_fun
+tell a joke 1,jokes_fun
+funny joke 2,jokes_fun
+another joke 3,jokes_fun
+another joke 4,jokes_fun
+make me laugh 0,jokes_fun
+funny joke 1,jokes_fun
+funny joke 2,jokes_fun
+another joke 3,jokes_fun
+another joke 4,jokes_fun
+tell a joke 0,jokes_fun
+make me laugh 1,jokes_fun
+another joke 2,jokes_fun
+tell a joke 3,jokes_fun
+funny joke 4,jokes_fun
+tell a joke 0,jokes_fun
+make me laugh 1,jokes_fun
+another joke 2,jokes_fun
+funny joke 3,jokes_fun
+another joke 4,jokes_fun
+another joke 0,jokes_fun
+tell a joke 1,jokes_fun
+another joke 2,jokes_fun
+make me laugh 3,jokes_fun
+make me laugh 4,jokes_fun
+make me laugh 0,jokes_fun
+funny joke 1,jokes_fun
+make me laugh 2,jokes_fun
+another joke 3,jokes_fun
+funny joke 4,jokes_fun
+funny joke 0,jokes_fun
+tell a joke 1,jokes_fun
+another joke 2,jokes_fun
+tell a joke 3,jokes_fun
+tell a joke 4,jokes_fun
+tell a joke 0,jokes_fun
+tell a joke 1,jokes_fun
+another joke 2,jokes_fun
+funny joke 3,jokes_fun
+another joke 4,jokes_fun
+make me laugh 0,jokes_fun
+make me laugh 1,jokes_fun
+make me laugh 2,jokes_fun
+another joke 3,jokes_fun
+make me laugh 4,jokes_fun
+funny joke 0,jokes_fun
+make me laugh 1,jokes_fun
+make me laugh 2,jokes_fun
+another joke 3,jokes_fun
+another joke 4,jokes_fun
+latest news 0,news
+top headlines 1,news
+today's news 2,news
+latest news 3,news
+today's news 4,news
+news update 0,news
+news update 1,news
+top headlines 2,news
+top headlines 3,news
+latest news 4,news
+news update 0,news
+news update 1,news
+top headlines 2,news
+top headlines 3,news
+news update 4,news
+today's news 0,news
+news update 1,news
+news update 2,news
+news update 3,news
+news update 4,news
+latest news 0,news
+latest news 1,news
+news update 2,news
+top headlines 3,news
+latest news 4,news
+top headlines 0,news
+top headlines 1,news
+news update 2,news
+news update 3,news
+top headlines 4,news
+today's news 0,news
+top headlines 1,news
+top headlines 2,news
+today's news 3,news
+news update 4,news
+today's news 0,news
+latest news 1,news
+latest news 2,news
+news update 3,news
+latest news 4,news
+top headlines 0,news
+today's news 1,news
+latest news 2,news
+top headlines 3,news
+today's news 4,news
+top headlines 0,news
+today's news 1,news
+today's news 2,news
+today's news 3,news
+top headlines 4,news
+today's news 0,news
+news update 1,news
+today's news 2,news
+latest news 3,news
+latest news 4,news
+today's news 0,news
+top headlines 1,news
+news update 2,news
+news update 3,news
+top headlines 4,news
+today's news 0,news
+top headlines 1,news
+latest news 2,news
+top headlines 3,news
+news update 4,news
+latest news 0,news
+top headlines 1,news
+today's news 2,news
+latest news 3,news
+latest news 4,news
+top headlines 0,news
+top headlines 1,news
+news update 2,news
+latest news 3,news
+today's news 4,news
+today's news 0,news
+latest news 1,news
+latest news 2,news
+today's news 3,news
+latest news 4,news
+top headlines 0,news
+top headlines 1,news
+news update 2,news
+latest news 3,news
+today's news 4,news
+today's news 0,news
+news update 1,news
+news update 2,news
+today's news 3,news
+latest news 4,news
+top headlines 0,news
+top headlines 1,news
+top headlines 2,news
+latest news 3,news
+latest news 4,news
+top headlines 0,news
+news update 1,news
+top headlines 2,news
+news update 3,news
+top headlines 4,news
+news update 0,news
+today's news 1,news
+top headlines 2,news
+today's news 3,news
+news update 4,news
+today's news 0,news
+today's news 1,news
+news update 2,news
+latest news 3,news
+latest news 4,news
+today's news 0,news
+today's news 1,news
+today's news 2,news
+top headlines 3,news
+news update 4,news
+news update 0,news
+today's news 1,news
+today's news 2,news
+latest news 3,news
+today's news 4,news
+top headlines 0,news
+latest news 1,news
+top headlines 2,news
+latest news 3,news
+latest news 4,news
+top headlines 0,news
+latest news 1,news
+news update 2,news
+news update 3,news
+latest news 4,news
+news update 0,news
+today's news 1,news
+top headlines 2,news
+top headlines 3,news
+latest news 4,news
+today's news 0,news
+today's news 1,news
+today's news 2,news
+today's news 3,news
+today's news 4,news
+top headlines 0,news
+news update 1,news
+latest news 2,news
+today's news 3,news
+top headlines 4,news
+top headlines 0,news
+top headlines 1,news
+today's news 2,news
+latest news 3,news
+top headlines 4,news
+news update 0,news
+news update 1,news
+today's news 2,news
+today's news 3,news
+top headlines 4,news
+top headlines 0,news
+today's news 1,news
+latest news 2,news
+top headlines 3,news
+today's news 4,news
+news update 0,news
+top headlines 1,news
+top headlines 2,news
+news update 3,news
+top headlines 4,news
+latest news 0,news
+today's news 1,news
+top headlines 2,news
+news update 3,news
+today's news 4,news
+suggest a movie 0,movies
+suggest a movie 1,movies
+popular films 2,movies
+suggest a movie 3,movies
+latest movies 4,movies
+latest movies 0,movies
+suggest a movie 1,movies
+movie recommendation 2,movies
+suggest a movie 3,movies
+popular films 4,movies
+movie recommendation 0,movies
+suggest a movie 1,movies
+latest movies 2,movies
+suggest a movie 3,movies
+movie recommendation 4,movies
+suggest a movie 0,movies
+latest movies 1,movies
+popular films 2,movies
+latest movies 3,movies
+movie recommendation 4,movies
+latest movies 0,movies
+suggest a movie 1,movies
+popular films 2,movies
+movie recommendation 3,movies
+movie recommendation 4,movies
+movie recommendation 0,movies
+latest movies 1,movies
+movie recommendation 2,movies
+popular films 3,movies
+popular films 4,movies
+latest movies 0,movies
+popular films 1,movies
+suggest a movie 2,movies
+popular films 3,movies
+latest movies 4,movies
+movie recommendation 0,movies
+movie recommendation 1,movies
+latest movies 2,movies
+popular films 3,movies
+latest movies 4,movies
+movie recommendation 0,movies
+movie recommendation 1,movies
+latest movies 2,movies
+latest movies 3,movies
+latest movies 4,movies
+movie recommendation 0,movies
+latest movies 1,movies
+popular films 2,movies
+suggest a movie 3,movies
+latest movies 4,movies
+suggest a movie 0,movies
+movie recommendation 1,movies
+latest movies 2,movies
+movie recommendation 3,movies
+suggest a movie 4,movies
+popular films 0,movies
+latest movies 1,movies
+suggest a movie 2,movies
+movie recommendation 3,movies
+movie recommendation 4,movies
+latest movies 0,movies
+latest movies 1,movies
+latest movies 2,movies
+popular films 3,movies
+latest movies 4,movies
+suggest a movie 0,movies
+suggest a movie 1,movies
+popular films 2,movies
+suggest a movie 3,movies
+popular films 4,movies
+latest movies 0,movies
+latest movies 1,movies
+suggest a movie 2,movies
+latest movies 3,movies
+popular films 4,movies
+popular films 0,movies
+movie recommendation 1,movies
+suggest a movie 2,movies
+popular films 3,movies
+popular films 4,movies
+popular films 0,movies
+popular films 1,movies
+popular films 2,movies
+popular films 3,movies
+suggest a movie 4,movies
+movie recommendation 0,movies
+latest movies 1,movies
+popular films 2,movies
+suggest a movie 3,movies
+popular films 4,movies
+suggest a movie 0,movies
+suggest a movie 1,movies
+suggest a movie 2,movies
+popular films 3,movies
+suggest a movie 4,movies
+latest movies 0,movies
+latest movies 1,movies
+movie recommendation 2,movies
+latest movies 3,movies
+latest movies 4,movies
+latest movies 0,movies
+latest movies 1,movies
+latest movies 2,movies
+suggest a movie 3,movies
+movie recommendation 4,movies
+movie recommendation 0,movies
+popular films 1,movies
+suggest a movie 2,movies
+movie recommendation 3,movies
+movie recommendation 4,movies
+movie recommendation 0,movies
+suggest a movie 1,movies
+popular films 2,movies
+suggest a movie 3,movies
+suggest a movie 4,movies
+suggest a movie 0,movies
+movie recommendation 1,movies
+movie recommendation 2,movies
+suggest a movie 3,movies
+movie recommendation 4,movies
+suggest a movie 0,movies
+popular films 1,movies
+suggest a movie 2,movies
+movie recommendation 3,movies
+movie recommendation 4,movies
+latest movies 0,movies
+movie recommendation 1,movies
+movie recommendation 2,movies
+popular films 3,movies
+suggest a movie 4,movies
+movie recommendation 0,movies
+popular films 1,movies
+latest movies 2,movies
+movie recommendation 3,movies
+movie recommendation 4,movies
+suggest a movie 0,movies
+popular films 1,movies
+movie recommendation 2,movies
+latest movies 3,movies
+suggest a movie 4,movies
+movie recommendation 0,movies
+popular films 1,movies
+popular films 2,movies
+suggest a movie 3,movies
+suggest a movie 4,movies
+latest movies 0,movies
+popular films 1,movies
+latest movies 2,movies
+popular films 3,movies
+popular films 4,movies
+popular films 0,movies
+suggest a movie 1,movies
+popular films 2,movies
+suggest a movie 3,movies
+movie recommendation 4,movies
+suggest a movie 0,movies
+movie recommendation 1,movies
+suggest a movie 2,movies
+latest movies 3,movies
+suggest a movie 4,movies
+latest movies 0,movies
+popular films 1,movies
+latest movies 2,movies
+popular films 3,movies
+popular films 4,movies
+suggest a movie 0,movies
+suggest a movie 1,movies
+latest movies 2,movies
+suggest a movie 3,movies
+movie recommendation 4,movies
+set a timer 0,set_timer
+set a timer 1,set_timer
+timer for cooking 2,set_timer
+start countdown 3,set_timer
+start timer 4,set_timer
+timer for cooking 0,set_timer
+timer for cooking 1,set_timer
+set a timer 2,set_timer
+start timer 3,set_timer
+start timer 4,set_timer
+start countdown 0,set_timer
+timer for cooking 1,set_timer
+timer for cooking 2,set_timer
+start countdown 3,set_timer
+start countdown 4,set_timer
+start countdown 0,set_timer
+start countdown 1,set_timer
+start timer 2,set_timer
+timer for cooking 3,set_timer
+set a timer 4,set_timer
+start countdown 0,set_timer
+start countdown 1,set_timer
+start countdown 2,set_timer
+timer for cooking 3,set_timer
+timer for cooking 4,set_timer
+timer for cooking 0,set_timer
+set a timer 1,set_timer
+timer for cooking 2,set_timer
+start timer 3,set_timer
+start countdown 4,set_timer
+timer for cooking 0,set_timer
+set a timer 1,set_timer
+start timer 2,set_timer
+timer for cooking 3,set_timer
+start timer 4,set_timer
+start countdown 0,set_timer
+start timer 1,set_timer
+start countdown 2,set_timer
+start timer 3,set_timer
+start timer 4,set_timer
+start timer 0,set_timer
+start timer 1,set_timer
+set a timer 2,set_timer
+start countdown 3,set_timer
+start countdown 4,set_timer
+start timer 0,set_timer
+start timer 1,set_timer
+start timer 2,set_timer
+start timer 3,set_timer
+start countdown 4,set_timer
+start timer 0,set_timer
+timer for cooking 1,set_timer
+start timer 2,set_timer
+start countdown 3,set_timer
+set a timer 4,set_timer
+start timer 0,set_timer
+start timer 1,set_timer
+timer for cooking 2,set_timer
+set a timer 3,set_timer
+timer for cooking 4,set_timer
+set a timer 0,set_timer
+timer for cooking 1,set_timer
+timer for cooking 2,set_timer
+timer for cooking 3,set_timer
+timer for cooking 4,set_timer
+set a timer 0,set_timer
+start timer 1,set_timer
+start timer 2,set_timer
+timer for cooking 3,set_timer
+start countdown 4,set_timer
+start timer 0,set_timer
+start timer 1,set_timer
+timer for cooking 2,set_timer
+start countdown 3,set_timer
+start timer 4,set_timer
+start timer 0,set_timer
+start timer 1,set_timer
+start timer 2,set_timer
+timer for cooking 3,set_timer
+timer for cooking 4,set_timer
+set a timer 0,set_timer
+set a timer 1,set_timer
+timer for cooking 2,set_timer
+set a timer 3,set_timer
+start timer 4,set_timer
+start timer 0,set_timer
+timer for cooking 1,set_timer
+start timer 2,set_timer
+timer for cooking 3,set_timer
+timer for cooking 4,set_timer
+start countdown 0,set_timer
+start timer 1,set_timer
+start countdown 2,set_timer
+start countdown 3,set_timer
+start timer 4,set_timer
+start timer 0,set_timer
+set a timer 1,set_timer
+start timer 2,set_timer
+start timer 3,set_timer
+start timer 4,set_timer
+start timer 0,set_timer
+set a timer 1,set_timer
+start timer 2,set_timer
+timer for cooking 3,set_timer
+set a timer 4,set_timer
+timer for cooking 0,set_timer
+start timer 1,set_timer
+timer for cooking 2,set_timer
+start timer 3,set_timer
+set a timer 4,set_timer
+set a timer 0,set_timer
+set a timer 1,set_timer
+start countdown 2,set_timer
+set a timer 3,set_timer
+start timer 4,set_timer
+start countdown 0,set_timer
+start timer 1,set_timer
+start timer 2,set_timer
+start countdown 3,set_timer
+set a timer 4,set_timer
+start countdown 0,set_timer
+set a timer 1,set_timer
+start timer 2,set_timer
+timer for cooking 3,set_timer
+set a timer 4,set_timer
+start timer 0,set_timer
+timer for cooking 1,set_timer
+start timer 2,set_timer
+start timer 3,set_timer
+start countdown 4,set_timer
+set a timer 0,set_timer
+timer for cooking 1,set_timer
+start countdown 2,set_timer
+start countdown 3,set_timer
+start timer 4,set_timer
+start timer 0,set_timer
+start timer 1,set_timer
+start timer 2,set_timer
+set a timer 3,set_timer
+set a timer 4,set_timer
+timer for cooking 0,set_timer
+set a timer 1,set_timer
+set a timer 2,set_timer
+start timer 3,set_timer
+timer for cooking 4,set_timer
+set a timer 0,set_timer
+start timer 1,set_timer
+start countdown 2,set_timer
+timer for cooking 3,set_timer
+start countdown 4,set_timer
+set a timer 0,set_timer
+start countdown 1,set_timer
+start timer 2,set_timer
+start timer 3,set_timer
+set a timer 4,set_timer
+start timer 0,set_timer
+timer for cooking 1,set_timer
+set a timer 2,set_timer
+set a timer 3,set_timer
+start countdown 4,set_timer
+start countdown 0,set_timer
+set a timer 1,set_timer
+set a timer 2,set_timer
+start timer 3,set_timer
+start countdown 4,set_timer
+start timer 0,set_timer
+start timer 1,set_timer
+set a timer 2,set_timer
+set a timer 3,set_timer
+start countdown 4,set_timer
+reminder for meeting 0,reminder
+don't forget task 1,reminder
+don't forget task 2,reminder
+don't forget task 3,reminder
+set reminder 4,reminder
+reminder for meeting 0,reminder
+don't forget task 1,reminder
+reminder for meeting 2,reminder
+remind me later 3,reminder
+set reminder 4,reminder
+reminder for meeting 0,reminder
+remind me later 1,reminder
+reminder for meeting 2,reminder
+remind me later 3,reminder
+remind me later 4,reminder
+reminder for meeting 0,reminder
+set reminder 1,reminder
+set reminder 2,reminder
+remind me later 3,reminder
+set reminder 4,reminder
+don't forget task 0,reminder
+don't forget task 1,reminder
+remind me later 2,reminder
+reminder for meeting 3,reminder
+set reminder 4,reminder
+don't forget task 0,reminder
+remind me later 1,reminder
+don't forget task 2,reminder
+set reminder 3,reminder
+don't forget task 4,reminder
+remind me later 0,reminder
+set reminder 1,reminder
+remind me later 2,reminder
+set reminder 3,reminder
+don't forget task 4,reminder
+don't forget task 0,reminder
+set reminder 1,reminder
+set reminder 2,reminder
+set reminder 3,reminder
+don't forget task 4,reminder
+reminder for meeting 0,reminder
+reminder for meeting 1,reminder
+set reminder 2,reminder
+reminder for meeting 3,reminder
+don't forget task 4,reminder
+remind me later 0,reminder
+don't forget task 1,reminder
+remind me later 2,reminder
+remind me later 3,reminder
+don't forget task 4,reminder
+remind me later 0,reminder
+reminder for meeting 1,reminder
+reminder for meeting 2,reminder
+reminder for meeting 3,reminder
+set reminder 4,reminder
+don't forget task 0,reminder
+set reminder 1,reminder
+set reminder 2,reminder
+don't forget task 3,reminder
+don't forget task 4,reminder
+reminder for meeting 0,reminder
+remind me later 1,reminder
+reminder for meeting 2,reminder
+don't forget task 3,reminder
+remind me later 4,reminder
+reminder for meeting 0,reminder
+remind me later 1,reminder
+don't forget task 2,reminder
+set reminder 3,reminder
+remind me later 4,reminder
+set reminder 0,reminder
+remind me later 1,reminder
+set reminder 2,reminder
+remind me later 3,reminder
+reminder for meeting 4,reminder
+don't forget task 0,reminder
+reminder for meeting 1,reminder
+remind me later 2,reminder
+don't forget task 3,reminder
+don't forget task 4,reminder
+set reminder 0,reminder
+reminder for meeting 1,reminder
+reminder for meeting 2,reminder
+reminder for meeting 3,reminder
+don't forget task 4,reminder
+reminder for meeting 0,reminder
+set reminder 1,reminder
+remind me later 2,reminder
+set reminder 3,reminder
+don't forget task 4,reminder
+set reminder 0,reminder
+set reminder 1,reminder
+remind me later 2,reminder
+set reminder 3,reminder
+set reminder 4,reminder
+don't forget task 0,reminder
+remind me later 1,reminder
+set reminder 2,reminder
+don't forget task 3,reminder
+set reminder 4,reminder
+don't forget task 0,reminder
+set reminder 1,reminder
+remind me later 2,reminder
+reminder for meeting 3,reminder
+remind me later 4,reminder
+don't forget task 0,reminder
+set reminder 1,reminder
+don't forget task 2,reminder
+don't forget task 3,reminder
+reminder for meeting 4,reminder
+don't forget task 0,reminder
+don't forget task 1,reminder
+don't forget task 2,reminder
+don't forget task 3,reminder
+remind me later 4,reminder
+reminder for meeting 0,reminder
+reminder for meeting 1,reminder
+set reminder 2,reminder
+remind me later 3,reminder
+don't forget task 4,reminder
+remind me later 0,reminder
+don't forget task 1,reminder
+remind me later 2,reminder
+set reminder 3,reminder
+don't forget task 4,reminder
+don't forget task 0,reminder
+remind me later 1,reminder
+remind me later 2,reminder
+don't forget task 3,reminder
+reminder for meeting 4,reminder
+don't forget task 0,reminder
+reminder for meeting 1,reminder
+don't forget task 2,reminder
+set reminder 3,reminder
+remind me later 4,reminder
+remind me later 0,reminder
+don't forget task 1,reminder
+reminder for meeting 2,reminder
+remind me later 3,reminder
+don't forget task 4,reminder
+set reminder 0,reminder
+reminder for meeting 1,reminder
+set reminder 2,reminder
+set reminder 3,reminder
+set reminder 4,reminder
+remind me later 0,reminder
+set reminder 1,reminder
+reminder for meeting 2,reminder
+reminder for meeting 3,reminder
+reminder for meeting 4,reminder
+reminder for meeting 0,reminder
+remind me later 1,reminder
+reminder for meeting 2,reminder
+reminder for meeting 3,reminder
+don't forget task 4,reminder
+don't forget task 0,reminder
+remind me later 1,reminder
+set reminder 2,reminder
+don't forget task 3,reminder
+reminder for meeting 4,reminder
+don't forget task 0,reminder
+remind me later 1,reminder
+reminder for meeting 2,reminder
+reminder for meeting 3,reminder
+reminder for meeting 4,reminder
+reminder for meeting 0,reminder
+reminder for meeting 1,reminder
+set reminder 2,reminder
+set reminder 3,reminder
+don't forget task 4,reminder
+date today 0,date_time
+current time 1,date_time
+current time 2,date_time
+what time is it 3,date_time
+date today 4,date_time
+what time is it 0,date_time
+current time 1,date_time
+current time 2,date_time
+current time 3,date_time
+date today 4,date_time
+today's date 0,date_time
+current time 1,date_time
+date today 2,date_time
+current time 3,date_time
+current time 4,date_time
+today's date 0,date_time
+current time 1,date_time
+current time 2,date_time
+what time is it 3,date_time
+today's date 4,date_time
+date today 0,date_time
+what time is it 1,date_time
+what time is it 2,date_time
+current time 3,date_time
+current time 4,date_time
+today's date 0,date_time
+today's date 1,date_time
+what time is it 2,date_time
+today's date 3,date_time
+date today 4,date_time
+today's date 0,date_time
+what time is it 1,date_time
+date today 2,date_time
+today's date 3,date_time
+today's date 4,date_time
+date today 0,date_time
+date today 1,date_time
+what time is it 2,date_time
+today's date 3,date_time
+date today 4,date_time
+today's date 0,date_time
+what time is it 1,date_time
+today's date 2,date_time
+current time 3,date_time
+current time 4,date_time
+current time 0,date_time
+what time is it 1,date_time
+current time 2,date_time
+today's date 3,date_time
+current time 4,date_time
+what time is it 0,date_time
+current time 1,date_time
+today's date 2,date_time
+today's date 3,date_time
+current time 4,date_time
+what time is it 0,date_time
+date today 1,date_time
+current time 2,date_time
+date today 3,date_time
+today's date 4,date_time
+today's date 0,date_time
+current time 1,date_time
+current time 2,date_time
+date today 3,date_time
+current time 4,date_time
+today's date 0,date_time
+today's date 1,date_time
+date today 2,date_time
+current time 3,date_time
+current time 4,date_time
+date today 0,date_time
+today's date 1,date_time
+today's date 2,date_time
+what time is it 3,date_time
+today's date 4,date_time
+today's date 0,date_time
+date today 1,date_time
+current time 2,date_time
+what time is it 3,date_time
+date today 4,date_time
+what time is it 0,date_time
+today's date 1,date_time
+current time 2,date_time
+today's date 3,date_time
+today's date 4,date_time
+current time 0,date_time
+what time is it 1,date_time
+current time 2,date_time
+current time 3,date_time
+today's date 4,date_time
+current time 0,date_time
+current time 1,date_time
+what time is it 2,date_time
+what time is it 3,date_time
+current time 4,date_time
+what time is it 0,date_time
+current time 1,date_time
+what time is it 2,date_time
+today's date 3,date_time
+today's date 4,date_time
+today's date 0,date_time
+what time is it 1,date_time
+today's date 2,date_time
+date today 3,date_time
+what time is it 4,date_time
+today's date 0,date_time
+today's date 1,date_time
+what time is it 2,date_time
+current time 3,date_time
+current time 4,date_time
+date today 0,date_time
+current time 1,date_time
+current time 2,date_time
+date today 3,date_time
+date today 4,date_time
+what time is it 0,date_time
+what time is it 1,date_time
+today's date 2,date_time
+date today 3,date_time
+date today 4,date_time
+date today 0,date_time
+date today 1,date_time
+today's date 2,date_time
+what time is it 3,date_time
+what time is it 4,date_time
+date today 0,date_time
+current time 1,date_time
+what time is it 2,date_time
+what time is it 3,date_time
+what time is it 4,date_time
+date today 0,date_time
+today's date 1,date_time
+current time 2,date_time
+current time 3,date_time
+today's date 4,date_time
+date today 0,date_time
+current time 1,date_time
+what time is it 2,date_time
+today's date 3,date_time
+date today 4,date_time
+today's date 0,date_time
+today's date 1,date_time
+today's date 2,date_time
+today's date 3,date_time
+today's date 4,date_time
+date today 0,date_time
+date today 1,date_time
+current time 2,date_time
+current time 3,date_time
+current time 4,date_time
+current time 0,date_time
+date today 1,date_time
+today's date 2,date_time
+what time is it 3,date_time
+current time 4,date_time
+current time 0,date_time
+current time 1,date_time
+date today 2,date_time
+current time 3,date_time
+what time is it 4,date_time
+current time 0,date_time
+current time 1,date_time
+current time 2,date_time
+what time is it 3,date_time
+today's date 4,date_time
+what time is it 0,date_time
+what time is it 1,date_time
+date today 2,date_time
+today's date 3,date_time
+what time is it 4,date_time
+what's on calendar 0,calendar
+meetings today 1,calendar
+calendar events 2,calendar
+what's on calendar 3,calendar
+calendar events 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+calendar events 2,calendar
+what's on calendar 3,calendar
+my schedule 4,calendar
+my schedule 0,calendar
+what's on calendar 1,calendar
+calendar events 2,calendar
+what's on calendar 3,calendar
+meetings today 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+what's on calendar 2,calendar
+my schedule 3,calendar
+meetings today 4,calendar
+what's on calendar 0,calendar
+calendar events 1,calendar
+calendar events 2,calendar
+meetings today 3,calendar
+what's on calendar 4,calendar
+calendar events 0,calendar
+my schedule 1,calendar
+what's on calendar 2,calendar
+meetings today 3,calendar
+calendar events 4,calendar
+what's on calendar 0,calendar
+meetings today 1,calendar
+what's on calendar 2,calendar
+meetings today 3,calendar
+calendar events 4,calendar
+calendar events 0,calendar
+meetings today 1,calendar
+my schedule 2,calendar
+what's on calendar 3,calendar
+calendar events 4,calendar
+calendar events 0,calendar
+calendar events 1,calendar
+my schedule 2,calendar
+my schedule 3,calendar
+my schedule 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+calendar events 2,calendar
+what's on calendar 3,calendar
+my schedule 4,calendar
+meetings today 0,calendar
+my schedule 1,calendar
+meetings today 2,calendar
+what's on calendar 3,calendar
+meetings today 4,calendar
+my schedule 0,calendar
+meetings today 1,calendar
+what's on calendar 2,calendar
+my schedule 3,calendar
+meetings today 4,calendar
+calendar events 0,calendar
+what's on calendar 1,calendar
+what's on calendar 2,calendar
+what's on calendar 3,calendar
+calendar events 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+what's on calendar 2,calendar
+meetings today 3,calendar
+meetings today 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+my schedule 2,calendar
+calendar events 3,calendar
+my schedule 4,calendar
+meetings today 0,calendar
+my schedule 1,calendar
+calendar events 2,calendar
+what's on calendar 3,calendar
+calendar events 4,calendar
+my schedule 0,calendar
+calendar events 1,calendar
+my schedule 2,calendar
+what's on calendar 3,calendar
+meetings today 4,calendar
+calendar events 0,calendar
+what's on calendar 1,calendar
+meetings today 2,calendar
+my schedule 3,calendar
+my schedule 4,calendar
+meetings today 0,calendar
+what's on calendar 1,calendar
+what's on calendar 2,calendar
+my schedule 3,calendar
+meetings today 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+meetings today 2,calendar
+meetings today 3,calendar
+meetings today 4,calendar
+my schedule 0,calendar
+meetings today 1,calendar
+what's on calendar 2,calendar
+meetings today 3,calendar
+calendar events 4,calendar
+my schedule 0,calendar
+meetings today 1,calendar
+my schedule 2,calendar
+calendar events 3,calendar
+calendar events 4,calendar
+calendar events 0,calendar
+what's on calendar 1,calendar
+what's on calendar 2,calendar
+what's on calendar 3,calendar
+meetings today 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+calendar events 2,calendar
+meetings today 3,calendar
+calendar events 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+what's on calendar 2,calendar
+my schedule 3,calendar
+my schedule 4,calendar
+meetings today 0,calendar
+meetings today 1,calendar
+meetings today 2,calendar
+what's on calendar 3,calendar
+what's on calendar 4,calendar
+what's on calendar 0,calendar
+my schedule 1,calendar
+what's on calendar 2,calendar
+my schedule 3,calendar
+what's on calendar 4,calendar
+my schedule 0,calendar
+my schedule 1,calendar
+what's on calendar 2,calendar
+my schedule 3,calendar
+meetings today 4,calendar
+what's on calendar 0,calendar
+calendar events 1,calendar
+my schedule 2,calendar
+what's on calendar 3,calendar
+calendar events 4,calendar
+my schedule 0,calendar
+my schedule 1,calendar
+what's on calendar 2,calendar
+my schedule 3,calendar
+what's on calendar 4,calendar
+calendar events 0,calendar
+what's on calendar 1,calendar
+meetings today 2,calendar
+calendar events 3,calendar
+calendar events 4,calendar
+calendar events 0,calendar
+what's on calendar 1,calendar
+what's on calendar 2,calendar
+calendar events 3,calendar
+what's on calendar 4,calendar
+my schedule 0,calendar
+calendar events 1,calendar
+meetings today 2,calendar
+meetings today 3,calendar
+meetings today 4,calendar
+meetings today 0,calendar
+calendar events 1,calendar
+what's on calendar 2,calendar
+calendar events 3,calendar
+meetings today 4,calendar
+will it rain 0,weather
+weather today 1,weather
+temperature outside 2,weather
+will it rain 3,weather
+weather forecast 4,weather
+will it rain 0,weather
+temperature outside 1,weather
+weather forecast 2,weather
+will it rain 3,weather
+will it rain 4,weather
+will it rain 0,weather
+will it rain 1,weather
+weather today 2,weather
+weather forecast 3,weather
+weather today 4,weather
+weather today 0,weather
+temperature outside 1,weather
+will it rain 2,weather
+weather forecast 3,weather
+will it rain 4,weather
+weather today 0,weather
+temperature outside 1,weather
+weather today 2,weather
+temperature outside 3,weather
+weather today 4,weather
+weather forecast 0,weather
+weather today 1,weather
+will it rain 2,weather
+will it rain 3,weather
+weather today 4,weather
+temperature outside 0,weather
+will it rain 1,weather
+weather forecast 2,weather
+temperature outside 3,weather
+will it rain 4,weather
+weather today 0,weather
+temperature outside 1,weather
+weather forecast 2,weather
+will it rain 3,weather
+will it rain 4,weather
+temperature outside 0,weather
+temperature outside 1,weather
+will it rain 2,weather
+will it rain 3,weather
+will it rain 4,weather
+temperature outside 0,weather
+weather today 1,weather
+temperature outside 2,weather
+weather today 3,weather
+weather today 4,weather
+weather today 0,weather
+temperature outside 1,weather
+will it rain 2,weather
+weather forecast 3,weather
+temperature outside 4,weather
+will it rain 0,weather
+temperature outside 1,weather
+weather forecast 2,weather
+weather today 3,weather
+will it rain 4,weather
+weather today 0,weather
+will it rain 1,weather
+weather forecast 2,weather
+temperature outside 3,weather
+will it rain 4,weather
+weather today 0,weather
+will it rain 1,weather
+weather forecast 2,weather
+weather forecast 3,weather
+temperature outside 4,weather
+will it rain 0,weather
+temperature outside 1,weather
+weather today 2,weather
+temperature outside 3,weather
+weather today 4,weather
+will it rain 0,weather
+temperature outside 1,weather
+weather today 2,weather
+weather today 3,weather
+temperature outside 4,weather
+weather today 0,weather
+will it rain 1,weather
+temperature outside 2,weather
+weather today 3,weather
+weather today 4,weather
+weather forecast 0,weather
+weather today 1,weather
+temperature outside 2,weather
+will it rain 3,weather
+weather today 4,weather
+temperature outside 0,weather
+weather today 1,weather
+temperature outside 2,weather
+will it rain 3,weather
+weather forecast 4,weather
+temperature outside 0,weather
+will it rain 1,weather
+temperature outside 2,weather
+will it rain 3,weather
+temperature outside 4,weather
+weather today 0,weather
+weather forecast 1,weather
+temperature outside 2,weather
+weather today 3,weather
+weather today 4,weather
+weather forecast 0,weather
+will it rain 1,weather
+weather forecast 2,weather
+temperature outside 3,weather
+weather forecast 4,weather
+weather today 0,weather
+weather forecast 1,weather
+temperature outside 2,weather
+weather forecast 3,weather
+weather today 4,weather
+weather forecast 0,weather
+weather forecast 1,weather
+will it rain 2,weather
+will it rain 3,weather
+temperature outside 4,weather
+weather forecast 0,weather
+weather forecast 1,weather
+temperature outside 2,weather
+weather today 3,weather
+temperature outside 4,weather
+weather today 0,weather
+weather forecast 1,weather
+will it rain 2,weather
+weather today 3,weather
+temperature outside 4,weather
+weather today 0,weather
+weather today 1,weather
+temperature outside 2,weather
+weather today 3,weather
+weather today 4,weather
+temperature outside 0,weather
+temperature outside 1,weather
+temperature outside 2,weather
+weather forecast 3,weather
+will it rain 4,weather
+weather forecast 0,weather
+weather forecast 1,weather
+will it rain 2,weather
+weather forecast 3,weather
+will it rain 4,weather
+weather forecast 0,weather
+temperature outside 1,weather
+will it rain 2,weather
+weather today 3,weather
+temperature outside 4,weather
+will it rain 0,weather
+temperature outside 1,weather
+will it rain 2,weather
+temperature outside 3,weather
+weather forecast 4,weather
+weather forecast 0,weather
+weather today 1,weather
+temperature outside 2,weather
+weather today 3,weather
+will it rain 4,weather
+weather forecast 0,weather
+temperature outside 1,weather
+temperature outside 2,weather
+will it rain 3,weather
+temperature outside 4,weather
+weather forecast 0,weather
+weather forecast 1,weather
+weather today 2,weather
+weather today 3,weather
+temperature outside 4,weather
+what is ai 0,general_qa
+who is einstein 1,general_qa
+what is ai 2,general_qa
+explain python 3,general_qa
+what is ai 4,general_qa
+explain python 0,general_qa
+define science 1,general_qa
+define science 2,general_qa
+who is einstein 3,general_qa
+what is ai 4,general_qa
+who is einstein 0,general_qa
+who is einstein 1,general_qa
+who is einstein 2,general_qa
+what is ai 3,general_qa
+who is einstein 4,general_qa
+who is einstein 0,general_qa
+who is einstein 1,general_qa
+what is ai 2,general_qa
+who is einstein 3,general_qa
+what is ai 4,general_qa
+define science 0,general_qa
+define science 1,general_qa
+what is ai 2,general_qa
+what is ai 3,general_qa
+define science 4,general_qa
+explain python 0,general_qa
+explain python 1,general_qa
+explain python 2,general_qa
+who is einstein 3,general_qa
+what is ai 4,general_qa
+define science 0,general_qa
+explain python 1,general_qa
+define science 2,general_qa
+what is ai 3,general_qa
+explain python 4,general_qa
+explain python 0,general_qa
+define science 1,general_qa
+define science 2,general_qa
+define science 3,general_qa
+what is ai 4,general_qa
+explain python 0,general_qa
+what is ai 1,general_qa
+what is ai 2,general_qa
+explain python 3,general_qa
+define science 4,general_qa
+explain python 0,general_qa
+explain python 1,general_qa
+who is einstein 2,general_qa
+who is einstein 3,general_qa
+define science 4,general_qa
+who is einstein 0,general_qa
+explain python 1,general_qa
+what is ai 2,general_qa
+explain python 3,general_qa
+define science 4,general_qa
+define science 0,general_qa
+who is einstein 1,general_qa
+explain python 2,general_qa
+explain python 3,general_qa
+who is einstein 4,general_qa
+who is einstein 0,general_qa
+who is einstein 1,general_qa
+explain python 2,general_qa
+who is einstein 3,general_qa
+what is ai 4,general_qa
+define science 0,general_qa
+what is ai 1,general_qa
+what is ai 2,general_qa
+who is einstein 3,general_qa
+define science 4,general_qa
+what is ai 0,general_qa
+who is einstein 1,general_qa
+what is ai 2,general_qa
+define science 3,general_qa
+explain python 4,general_qa
+what is ai 0,general_qa
+define science 1,general_qa
+explain python 2,general_qa
+explain python 3,general_qa
+what is ai 4,general_qa
+define science 0,general_qa
+define science 1,general_qa
+who is einstein 2,general_qa
+who is einstein 3,general_qa
+explain python 4,general_qa
+what is ai 0,general_qa
+define science 1,general_qa
+explain python 2,general_qa
+define science 3,general_qa
+what is ai 4,general_qa
+define science 0,general_qa
+define science 1,general_qa
+who is einstein 2,general_qa
+what is ai 3,general_qa
+define science 4,general_qa
+explain python 0,general_qa
+explain python 1,general_qa
+what is ai 2,general_qa
+explain python 3,general_qa
+what is ai 4,general_qa
+define science 0,general_qa
+who is einstein 1,general_qa
+explain python 2,general_qa
+define science 3,general_qa
+who is einstein 4,general_qa
+what is ai 0,general_qa
+explain python 1,general_qa
+what is ai 2,general_qa
+define science 3,general_qa
+what is ai 4,general_qa
+who is einstein 0,general_qa
+explain python 1,general_qa
+what is ai 2,general_qa
+what is ai 3,general_qa
+who is einstein 4,general_qa
+define science 0,general_qa
+who is einstein 1,general_qa
+what is ai 2,general_qa
+who is einstein 3,general_qa
+who is einstein 4,general_qa
+define science 0,general_qa
+who is einstein 1,general_qa
+who is einstein 2,general_qa
+explain python 3,general_qa
+explain python 4,general_qa
+what is ai 0,general_qa
+define science 1,general_qa
+explain python 2,general_qa
+explain python 3,general_qa
+explain python 4,general_qa
+explain python 0,general_qa
+define science 1,general_qa
+explain python 2,general_qa
+who is einstein 3,general_qa
+explain python 4,general_qa
+who is einstein 0,general_qa
+define science 1,general_qa
+define science 2,general_qa
+what is ai 3,general_qa
+who is einstein 4,general_qa
+who is einstein 0,general_qa
+explain python 1,general_qa
+define science 2,general_qa
+what is ai 3,general_qa
+define science 4,general_qa
+explain python 0,general_qa
+who is einstein 1,general_qa
+define science 2,general_qa
+define science 3,general_qa
+define science 4,general_qa
+define science 0,general_qa
+explain python 1,general_qa
+define science 2,general_qa
+explain python 3,general_qa
+who is einstein 4,general_qa
+explain python 0,general_qa
+explain python 1,general_qa
+explain python 2,general_qa
+what is ai 3,general_qa
+define science 4,general_qa
+who is einstein 0,general_qa
+who is einstein 1,general_qa
+explain python 2,general_qa
+explain python 3,general_qa
+who is einstein 4,general_qa
+what is ai 0,general_qa
+who is einstein 1,general_qa
+who is einstein 2,general_qa
+what is ai 3,general_qa
+explain python 4,general_qa
+science fact 0,facts
+random fact 1,facts
+history fact 2,facts
+random fact 3,facts
+history fact 4,facts
+random fact 0,facts
+history fact 1,facts
+random fact 2,facts
+science fact 3,facts
+history fact 4,facts
+history fact 0,facts
+history fact 1,facts
+science fact 2,facts
+tell a fact 3,facts
+tell a fact 4,facts
+science fact 0,facts
+random fact 1,facts
+science fact 2,facts
+science fact 3,facts
+science fact 4,facts
+random fact 0,facts
+random fact 1,facts
+tell a fact 2,facts
+tell a fact 3,facts
+science fact 4,facts
+science fact 0,facts
+history fact 1,facts
+random fact 2,facts
+science fact 3,facts
+history fact 4,facts
+science fact 0,facts
+history fact 1,facts
+science fact 2,facts
+history fact 3,facts
+random fact 4,facts
+random fact 0,facts
+history fact 1,facts
+science fact 2,facts
+science fact 3,facts
+history fact 4,facts
+random fact 0,facts
+random fact 1,facts
+history fact 2,facts
+tell a fact 3,facts
+tell a fact 4,facts
+random fact 0,facts
+history fact 1,facts
+science fact 2,facts
+tell a fact 3,facts
+tell a fact 4,facts
+science fact 0,facts
+history fact 1,facts
+science fact 2,facts
+random fact 3,facts
+tell a fact 4,facts
+random fact 0,facts
+random fact 1,facts
+tell a fact 2,facts
+science fact 3,facts
+science fact 4,facts
+tell a fact 0,facts
+history fact 1,facts
+tell a fact 2,facts
+science fact 3,facts
+science fact 4,facts
+tell a fact 0,facts
+history fact 1,facts
+tell a fact 2,facts
+history fact 3,facts
+history fact 4,facts
+science fact 0,facts
+science fact 1,facts
+history fact 2,facts
+history fact 3,facts
+tell a fact 4,facts
+tell a fact 0,facts
+random fact 1,facts
+tell a fact 2,facts
+tell a fact 3,facts
+random fact 4,facts
+history fact 0,facts
+history fact 1,facts
+random fact 2,facts
+science fact 3,facts
+science fact 4,facts
+science fact 0,facts
+science fact 1,facts
+science fact 2,facts
+random fact 3,facts
+history fact 4,facts
+science fact 0,facts
+science fact 1,facts
+science fact 2,facts
+random fact 3,facts
+tell a fact 4,facts
+history fact 0,facts
+random fact 1,facts
+tell a fact 2,facts
+science fact 3,facts
+science fact 4,facts
+tell a fact 0,facts
+science fact 1,facts
+history fact 2,facts
+history fact 3,facts
+tell a fact 4,facts
+science fact 0,facts
+tell a fact 1,facts
+tell a fact 2,facts
+random fact 3,facts
+random fact 4,facts
+history fact 0,facts
+random fact 1,facts
+random fact 2,facts
+history fact 3,facts
+tell a fact 4,facts
+random fact 0,facts
+history fact 1,facts
+random fact 2,facts
+history fact 3,facts
+science fact 4,facts
+science fact 0,facts
+science fact 1,facts
+random fact 2,facts
+tell a fact 3,facts
+random fact 4,facts
+science fact 0,facts
+random fact 1,facts
+random fact 2,facts
+random fact 3,facts
+tell a fact 4,facts
+random fact 0,facts
+science fact 1,facts
+tell a fact 2,facts
+tell a fact 3,facts
+science fact 4,facts
+science fact 0,facts
+random fact 1,facts
+history fact 2,facts
+random fact 3,facts
+history fact 4,facts
+tell a fact 0,facts
+science fact 1,facts
+history fact 2,facts
+random fact 3,facts
+science fact 4,facts
+science fact 0,facts
+science fact 1,facts
+random fact 2,facts
+random fact 3,facts
+history fact 4,facts
+science fact 0,facts
+tell a fact 1,facts
+science fact 2,facts
+history fact 3,facts
+tell a fact 4,facts
+science fact 0,facts
+history fact 1,facts
+random fact 2,facts
+history fact 3,facts
+tell a fact 4,facts
+history fact 0,facts
+random fact 1,facts
+tell a fact 2,facts
+tell a fact 3,facts
+tell a fact 4,facts
+history fact 0,facts
+history fact 1,facts
+history fact 2,facts
+science fact 3,facts
+history fact 4,facts
+traffic to office 0,traffic
+traffic update 1,traffic
+traffic update 2,traffic
+road conditions 3,traffic
+traffic to office 4,traffic
+traffic to office 0,traffic
+how's traffic 1,traffic
+traffic update 2,traffic
+road conditions 3,traffic
+road conditions 4,traffic
+traffic update 0,traffic
+road conditions 1,traffic
+traffic to office 2,traffic
+how's traffic 3,traffic
+how's traffic 4,traffic
+traffic to office 0,traffic
+traffic update 1,traffic
+traffic update 2,traffic
+how's traffic 3,traffic
+road conditions 4,traffic
+traffic update 0,traffic
+traffic update 1,traffic
+traffic update 2,traffic
+traffic update 3,traffic
+traffic update 4,traffic
+how's traffic 0,traffic
+traffic update 1,traffic
+road conditions 2,traffic
+how's traffic 3,traffic
+road conditions 4,traffic
+traffic to office 0,traffic
+how's traffic 1,traffic
+how's traffic 2,traffic
+road conditions 3,traffic
+road conditions 4,traffic
+traffic to office 0,traffic
+traffic update 1,traffic
+traffic update 2,traffic
+traffic to office 3,traffic
+road conditions 4,traffic
+traffic update 0,traffic
+road conditions 1,traffic
+road conditions 2,traffic
+road conditions 3,traffic
+road conditions 4,traffic
+traffic to office 0,traffic
+how's traffic 1,traffic
+traffic update 2,traffic
+traffic update 3,traffic
+traffic update 4,traffic
+traffic to office 0,traffic
+traffic update 1,traffic
+traffic update 2,traffic
+traffic to office 3,traffic
+traffic update 4,traffic
+road conditions 0,traffic
+traffic to office 1,traffic
+traffic update 2,traffic
+how's traffic 3,traffic
+traffic update 4,traffic
+traffic to office 0,traffic
+traffic to office 1,traffic
+traffic to office 2,traffic
+traffic to office 3,traffic
+traffic to office 4,traffic
+traffic to office 0,traffic
+traffic to office 1,traffic
+how's traffic 2,traffic
+traffic to office 3,traffic
+how's traffic 4,traffic
+traffic to office 0,traffic
+how's traffic 1,traffic
+traffic update 2,traffic
+traffic to office 3,traffic
+how's traffic 4,traffic
+how's traffic 0,traffic
+how's traffic 1,traffic
+traffic to office 2,traffic
+road conditions 3,traffic
+road conditions 4,traffic
+how's traffic 0,traffic
+how's traffic 1,traffic
+how's traffic 2,traffic
+traffic update 3,traffic
+road conditions 4,traffic
+traffic update 0,traffic
+how's traffic 1,traffic
+how's traffic 2,traffic
+traffic update 3,traffic
+traffic update 4,traffic
+traffic update 0,traffic
+traffic to office 1,traffic
+traffic to office 2,traffic
+traffic to office 3,traffic
+traffic update 4,traffic
+traffic update 0,traffic
+traffic update 1,traffic
+how's traffic 2,traffic
+road conditions 3,traffic
+road conditions 4,traffic
+how's traffic 0,traffic
+traffic to office 1,traffic
+how's traffic 2,traffic
+how's traffic 3,traffic
+traffic to office 4,traffic
+traffic update 0,traffic
+traffic to office 1,traffic
+traffic update 2,traffic
+road conditions 3,traffic
+traffic to office 4,traffic
+traffic update 0,traffic
+traffic update 1,traffic
+traffic update 2,traffic
+traffic update 3,traffic
+traffic update 4,traffic
+traffic to office 0,traffic
+how's traffic 1,traffic
+road conditions 2,traffic
+traffic update 3,traffic
+traffic update 4,traffic
+traffic update 0,traffic
+how's traffic 1,traffic
+traffic to office 2,traffic
+road conditions 3,traffic
+how's traffic 4,traffic
+road conditions 0,traffic
+traffic update 1,traffic
+traffic to office 2,traffic
+how's traffic 3,traffic
+how's traffic 4,traffic
+traffic update 0,traffic
+how's traffic 1,traffic
+traffic to office 2,traffic
+road conditions 3,traffic
+road conditions 4,traffic
+road conditions 0,traffic
+traffic to office 1,traffic
+traffic update 2,traffic
+road conditions 3,traffic
+road conditions 4,traffic
+traffic update 0,traffic
+traffic to office 1,traffic
+traffic update 2,traffic
+road conditions 3,traffic
+how's traffic 4,traffic
+traffic to office 0,traffic
+traffic update 1,traffic
+traffic to office 2,traffic
+road conditions 3,traffic
+traffic update 4,traffic
+traffic update 0,traffic
+traffic to office 1,traffic
+how's traffic 2,traffic
+traffic update 3,traffic
+road conditions 4,traffic
+traffic update 0,traffic
+traffic update 1,traffic
+traffic to office 2,traffic
+traffic to office 3,traffic
+traffic update 4,traffic
+traffic to office 0,traffic
+traffic update 1,traffic
+traffic to office 2,traffic
+how's traffic 3,traffic
+traffic to office 4,traffic
+traffic to office 0,traffic
+road conditions 1,traffic
+road conditions 2,traffic
+traffic to office 3,traffic
+road conditions 4,traffic
+way to hospital 0,directions
+route to airport 1,directions
+navigate to school 2,directions
+directions to mall 3,directions
+directions to mall 4,directions
+way to hospital 0,directions
+directions to mall 1,directions
+route to airport 2,directions
+route to airport 3,directions
+directions to mall 4,directions
+way to hospital 0,directions
+way to hospital 1,directions
+directions to mall 2,directions
+route to airport 3,directions
+way to hospital 4,directions
+directions to mall 0,directions
+navigate to school 1,directions
+directions to mall 2,directions
+route to airport 3,directions
+navigate to school 4,directions
+route to airport 0,directions
+directions to mall 1,directions
+navigate to school 2,directions
+route to airport 3,directions
+way to hospital 4,directions
+navigate to school 0,directions
+navigate to school 1,directions
+route to airport 2,directions
+directions to mall 3,directions
+way to hospital 4,directions
+directions to mall 0,directions
+navigate to school 1,directions
+directions to mall 2,directions
+navigate to school 3,directions
+way to hospital 4,directions
+navigate to school 0,directions
+directions to mall 1,directions
+directions to mall 2,directions
+way to hospital 3,directions
+directions to mall 4,directions
+directions to mall 0,directions
+navigate to school 1,directions
+navigate to school 2,directions
+navigate to school 3,directions
+navigate to school 4,directions
+navigate to school 0,directions
+directions to mall 1,directions
+navigate to school 2,directions
+directions to mall 3,directions
+directions to mall 4,directions
+directions to mall 0,directions
+way to hospital 1,directions
+way to hospital 2,directions
+route to airport 3,directions
+directions to mall 4,directions
+navigate to school 0,directions
+route to airport 1,directions
+way to hospital 2,directions
+route to airport 3,directions
+directions to mall 4,directions
+directions to mall 0,directions
+route to airport 1,directions
+route to airport 2,directions
+way to hospital 3,directions
+way to hospital 4,directions
+directions to mall 0,directions
+navigate to school 1,directions
+route to airport 2,directions
+navigate to school 3,directions
+route to airport 4,directions
+directions to mall 0,directions
+navigate to school 1,directions
+route to airport 2,directions
+directions to mall 3,directions
+navigate to school 4,directions
+directions to mall 0,directions
+way to hospital 1,directions
+directions to mall 2,directions
+navigate to school 3,directions
+route to airport 4,directions
+directions to mall 0,directions
+route to airport 1,directions
+directions to mall 2,directions
+navigate to school 3,directions
+navigate to school 4,directions
+route to airport 0,directions
+way to hospital 1,directions
+way to hospital 2,directions
+navigate to school 3,directions
+navigate to school 4,directions
+directions to mall 0,directions
+directions to mall 1,directions
+directions to mall 2,directions
+navigate to school 3,directions
+directions to mall 4,directions
+navigate to school 0,directions
+navigate to school 1,directions
+way to hospital 2,directions
+directions to mall 3,directions
+directions to mall 4,directions
+way to hospital 0,directions
+way to hospital 1,directions
+navigate to school 2,directions
+navigate to school 3,directions
+route to airport 4,directions
+way to hospital 0,directions
+navigate to school 1,directions
+directions to mall 2,directions
+navigate to school 3,directions
+way to hospital 4,directions
+route to airport 0,directions
+directions to mall 1,directions
+way to hospital 2,directions
+route to airport 3,directions
+route to airport 4,directions
+route to airport 0,directions
+navigate to school 1,directions
+way to hospital 2,directions
+route to airport 3,directions
+way to hospital 4,directions
+way to hospital 0,directions
+way to hospital 1,directions
+directions to mall 2,directions
+navigate to school 3,directions
+route to airport 4,directions
+navigate to school 0,directions
+directions to mall 1,directions
+way to hospital 2,directions
+way to hospital 3,directions
+navigate to school 4,directions
+directions to mall 0,directions
+directions to mall 1,directions
+route to airport 2,directions
+route to airport 3,directions
+directions to mall 4,directions
+navigate to school 0,directions
+navigate to school 1,directions
+directions to mall 2,directions
+navigate to school 3,directions
+directions to mall 4,directions
+navigate to school 0,directions
+navigate to school 1,directions
+route to airport 2,directions
+navigate to school 3,directions
+navigate to school 4,directions
+navigate to school 0,directions
+directions to mall 1,directions
+route to airport 2,directions
+directions to mall 3,directions
+route to airport 4,directions
+route to airport 0,directions
+route to airport 1,directions
+navigate to school 2,directions
+route to airport 3,directions
+navigate to school 4,directions
+route to airport 0,directions
+navigate to school 1,directions
+way to hospital 2,directions
+directions to mall 3,directions
+directions to mall 4,directions
+way to hospital 0,directions
+navigate to school 1,directions
+directions to mall 2,directions
+route to airport 3,directions
+directions to mall 4,directions
+route to airport 0,directions
+route to airport 1,directions
+directions to mall 2,directions
+way to hospital 3,directions
+way to hospital 4,directions
+buy eggs 0,shopping_list
+put rice on list 1,shopping_list
+add milk to shopping list 2,shopping_list
+add bread 3,shopping_list
+add bread 4,shopping_list
+add milk to shopping list 0,shopping_list
+buy eggs 1,shopping_list
+put rice on list 2,shopping_list
+add bread 3,shopping_list
+put rice on list 4,shopping_list
+add bread 0,shopping_list
+put rice on list 1,shopping_list
+add milk to shopping list 2,shopping_list
+add bread 3,shopping_list
+add bread 4,shopping_list
+put rice on list 0,shopping_list
+add bread 1,shopping_list
+buy eggs 2,shopping_list
+put rice on list 3,shopping_list
+add milk to shopping list 4,shopping_list
+buy eggs 0,shopping_list
+put rice on list 1,shopping_list
+put rice on list 2,shopping_list
+add bread 3,shopping_list
+put rice on list 4,shopping_list
+add milk to shopping list 0,shopping_list
+buy eggs 1,shopping_list
+add milk to shopping list 2,shopping_list
+put rice on list 3,shopping_list
+put rice on list 4,shopping_list
+add bread 0,shopping_list
+add milk to shopping list 1,shopping_list
+add bread 2,shopping_list
+add milk to shopping list 3,shopping_list
+buy eggs 4,shopping_list
+add bread 0,shopping_list
+put rice on list 1,shopping_list
+add bread 2,shopping_list
+buy eggs 3,shopping_list
+buy eggs 4,shopping_list
+put rice on list 0,shopping_list
+buy eggs 1,shopping_list
+put rice on list 2,shopping_list
+add milk to shopping list 3,shopping_list
+put rice on list 4,shopping_list
+add milk to shopping list 0,shopping_list
+add milk to shopping list 1,shopping_list
+buy eggs 2,shopping_list
+add bread 3,shopping_list
+add milk to shopping list 4,shopping_list
+put rice on list 0,shopping_list
+buy eggs 1,shopping_list
+put rice on list 2,shopping_list
+put rice on list 3,shopping_list
+add milk to shopping list 4,shopping_list
+buy eggs 0,shopping_list
+add milk to shopping list 1,shopping_list
+buy eggs 2,shopping_list
+put rice on list 3,shopping_list
+buy eggs 4,shopping_list
+add milk to shopping list 0,shopping_list
+add bread 1,shopping_list
+add milk to shopping list 2,shopping_list
+add bread 3,shopping_list
+put rice on list 4,shopping_list
+add bread 0,shopping_list
+buy eggs 1,shopping_list
+add bread 2,shopping_list
+add milk to shopping list 3,shopping_list
+add milk to shopping list 4,shopping_list
+buy eggs 0,shopping_list
+add milk to shopping list 1,shopping_list
+add milk to shopping list 2,shopping_list
+add bread 3,shopping_list
+buy eggs 4,shopping_list
+add milk to shopping list 0,shopping_list
+put rice on list 1,shopping_list
+buy eggs 2,shopping_list
+add milk to shopping list 3,shopping_list
+put rice on list 4,shopping_list
+add bread 0,shopping_list
+add bread 1,shopping_list
+buy eggs 2,shopping_list
+put rice on list 3,shopping_list
+put rice on list 4,shopping_list
+buy eggs 0,shopping_list
+add bread 1,shopping_list
+put rice on list 2,shopping_list
+buy eggs 3,shopping_list
+add milk to shopping list 4,shopping_list
+put rice on list 0,shopping_list
+buy eggs 1,shopping_list
+add bread 2,shopping_list
+put rice on list 3,shopping_list
+put rice on list 4,shopping_list
+add milk to shopping list 0,shopping_list
+add bread 1,shopping_list
+add milk to shopping list 2,shopping_list
+add milk to shopping list 3,shopping_list
+put rice on list 4,shopping_list
+put rice on list 0,shopping_list
+add bread 1,shopping_list
+add bread 2,shopping_list
+buy eggs 3,shopping_list
+put rice on list 4,shopping_list
+buy eggs 0,shopping_list
+add milk to shopping list 1,shopping_list
+add bread 2,shopping_list
+put rice on list 3,shopping_list
+put rice on list 4,shopping_list
+add milk to shopping list 0,shopping_list
+add bread 1,shopping_list
+add bread 2,shopping_list
+add bread 3,shopping_list
+buy eggs 4,shopping_list
+add bread 0,shopping_list
+put rice on list 1,shopping_list
+put rice on list 2,shopping_list
+add milk to shopping list 3,shopping_list
+add milk to shopping list 4,shopping_list
+add milk to shopping list 0,shopping_list
+add milk to shopping list 1,shopping_list
+buy eggs 2,shopping_list
+put rice on list 3,shopping_list
+put rice on list 4,shopping_list
+put rice on list 0,shopping_list
+add milk to shopping list 1,shopping_list
+buy eggs 2,shopping_list
+put rice on list 3,shopping_list
+put rice on list 4,shopping_list
+buy eggs 0,shopping_list
+put rice on list 1,shopping_list
+buy eggs 2,shopping_list
+add bread 3,shopping_list
+put rice on list 4,shopping_list
+buy eggs 0,shopping_list
+put rice on list 1,shopping_list
+buy eggs 2,shopping_list
+add milk to shopping list 3,shopping_list
+add milk to shopping list 4,shopping_list
+put rice on list 0,shopping_list
+put rice on list 1,shopping_list
+put rice on list 2,shopping_list
+buy eggs 3,shopping_list
+put rice on list 4,shopping_list
+add bread 0,shopping_list
+add bread 1,shopping_list
+add bread 2,shopping_list
+buy eggs 3,shopping_list
+buy eggs 4,shopping_list
+add milk to shopping list 0,shopping_list
+buy eggs 1,shopping_list
+put rice on list 2,shopping_list
+add bread 3,shopping_list
+buy eggs 4,shopping_list
+put rice on list 0,shopping_list
+put rice on list 1,shopping_list
+add milk to shopping list 2,shopping_list
+buy eggs 3,shopping_list
+put rice on list 4,shopping_list
+buy eggs 0,shopping_list
+add milk to shopping list 1,shopping_list
+buy eggs 2,shopping_list
+put rice on list 3,shopping_list
+add milk to shopping list 4,shopping_list
+buy eggs 0,shopping_list
+put rice on list 1,shopping_list
+add bread 2,shopping_list
+put rice on list 3,shopping_list
+put rice on list 4,shopping_list
+switch off fan 0,smart_home
+turn off ac 1,smart_home
+dim lights 2,smart_home
+dim lights 3,smart_home
+turn off ac 4,smart_home
+switch off fan 0,smart_home
+dim lights 1,smart_home
+switch off fan 2,smart_home
+turn on lights 3,smart_home
+turn on lights 4,smart_home
+turn on lights 0,smart_home
+dim lights 1,smart_home
+turn on lights 2,smart_home
+dim lights 3,smart_home
+turn off ac 4,smart_home
+switch off fan 0,smart_home
+dim lights 1,smart_home
+dim lights 2,smart_home
+dim lights 3,smart_home
+turn off ac 4,smart_home
+turn on lights 0,smart_home
+dim lights 1,smart_home
+turn off ac 2,smart_home
+turn off ac 3,smart_home
+turn on lights 4,smart_home
+switch off fan 0,smart_home
+switch off fan 1,smart_home
+dim lights 2,smart_home
+switch off fan 3,smart_home
+turn on lights 4,smart_home
+turn off ac 0,smart_home
+switch off fan 1,smart_home
+turn on lights 2,smart_home
+turn on lights 3,smart_home
+turn on lights 4,smart_home
+dim lights 0,smart_home
+turn off ac 1,smart_home
+turn off ac 2,smart_home
+turn on lights 3,smart_home
+switch off fan 4,smart_home
+turn off ac 0,smart_home
+dim lights 1,smart_home
+turn on lights 2,smart_home
+turn off ac 3,smart_home
+turn off ac 4,smart_home
+turn on lights 0,smart_home
+switch off fan 1,smart_home
+turn off ac 2,smart_home
+dim lights 3,smart_home
+switch off fan 4,smart_home
+turn off ac 0,smart_home
+dim lights 1,smart_home
+turn off ac 2,smart_home
+turn off ac 3,smart_home
+turn on lights 4,smart_home
+dim lights 0,smart_home
+turn on lights 1,smart_home
+switch off fan 2,smart_home
+switch off fan 3,smart_home
+turn off ac 4,smart_home
+switch off fan 0,smart_home
+turn off ac 1,smart_home
+turn on lights 2,smart_home
+turn off ac 3,smart_home
+turn on lights 4,smart_home
+turn on lights 0,smart_home
+dim lights 1,smart_home
+turn off ac 2,smart_home
+switch off fan 3,smart_home
+turn off ac 4,smart_home
+dim lights 0,smart_home
+turn on lights 1,smart_home
+dim lights 2,smart_home
+switch off fan 3,smart_home
+dim lights 4,smart_home
+switch off fan 0,smart_home
+switch off fan 1,smart_home
+switch off fan 2,smart_home
+dim lights 3,smart_home
+dim lights 4,smart_home
+dim lights 0,smart_home
+dim lights 1,smart_home
+switch off fan 2,smart_home
+turn off ac 3,smart_home
+switch off fan 4,smart_home
+dim lights 0,smart_home
+turn on lights 1,smart_home
+switch off fan 2,smart_home
+switch off fan 3,smart_home
+turn off ac 4,smart_home
+turn off ac 0,smart_home
+dim lights 1,smart_home
+dim lights 2,smart_home
+turn on lights 3,smart_home
+dim lights 4,smart_home
+turn on lights 0,smart_home
+switch off fan 1,smart_home
+turn on lights 2,smart_home
+switch off fan 3,smart_home
+dim lights 4,smart_home
+dim lights 0,smart_home
+switch off fan 1,smart_home
+turn off ac 2,smart_home
+turn on lights 3,smart_home
+turn on lights 4,smart_home
+turn off ac 0,smart_home
+turn off ac 1,smart_home
+switch off fan 2,smart_home
+turn off ac 3,smart_home
+switch off fan 4,smart_home
+turn off ac 0,smart_home
+dim lights 1,smart_home
+turn off ac 2,smart_home
+switch off fan 3,smart_home
+dim lights 4,smart_home
+turn on lights 0,smart_home
+turn on lights 1,smart_home
+switch off fan 2,smart_home
+turn off ac 3,smart_home
+switch off fan 4,smart_home
+turn off ac 0,smart_home
+turn on lights 1,smart_home
+switch off fan 2,smart_home
+dim lights 3,smart_home
+dim lights 4,smart_home
+dim lights 0,smart_home
+dim lights 1,smart_home
+dim lights 2,smart_home
+turn off ac 3,smart_home
+turn on lights 4,smart_home
+turn on lights 0,smart_home
+dim lights 1,smart_home
+turn off ac 2,smart_home
+turn off ac 3,smart_home
+turn on lights 4,smart_home
+turn off ac 0,smart_home
+switch off fan 1,smart_home
+turn on lights 2,smart_home
+turn off ac 3,smart_home
+switch off fan 4,smart_home
+turn on lights 0,smart_home
+switch off fan 1,smart_home
+dim lights 2,smart_home
+dim lights 3,smart_home
+dim lights 4,smart_home
+turn off ac 0,smart_home
+dim lights 1,smart_home
+turn on lights 2,smart_home
+switch off fan 3,smart_home
+dim lights 4,smart_home
+dim lights 0,smart_home
+dim lights 1,smart_home
+switch off fan 2,smart_home
+switch off fan 3,smart_home
+turn off ac 4,smart_home
+switch off fan 0,smart_home
+switch off fan 1,smart_home
+switch off fan 2,smart_home
+dim lights 3,smart_home
+turn on lights 4,smart_home
+switch off fan 0,smart_home
+switch off fan 1,smart_home
+dim lights 2,smart_home
+dim lights 3,smart_home
+switch off fan 4,smart_home
+dim lights 0,smart_home
+turn off ac 1,smart_home
+turn on lights 2,smart_home
+switch off fan 3,smart_home
+turn on lights 4,smart_home
+who are you 0,personality
+who are you 1,personality
+who are you 2,personality
+tell about yourself 3,personality
+tell about yourself 4,personality
+who are you 0,personality
+what can you do 1,personality
+what can you do 2,personality
+tell about yourself 3,personality
+are you smart 4,personality
+tell about yourself 0,personality
+are you smart 1,personality
+what can you do 2,personality
+who are you 3,personality
+tell about yourself 4,personality
+are you smart 0,personality
+what can you do 1,personality
+tell about yourself 2,personality
+tell about yourself 3,personality
+what can you do 4,personality
+are you smart 0,personality
+what can you do 1,personality
+tell about yourself 2,personality
+tell about yourself 3,personality
+are you smart 4,personality
+who are you 0,personality
+what can you do 1,personality
+tell about yourself 2,personality
+who are you 3,personality
+tell about yourself 4,personality
+what can you do 0,personality
+who are you 1,personality
+are you smart 2,personality
+what can you do 3,personality
+what can you do 4,personality
+tell about yourself 0,personality
+what can you do 1,personality
+tell about yourself 2,personality
+tell about yourself 3,personality
+tell about yourself 4,personality
+tell about yourself 0,personality
+what can you do 1,personality
+what can you do 2,personality
+are you smart 3,personality
+who are you 4,personality
+who are you 0,personality
+tell about yourself 1,personality
+who are you 2,personality
+tell about yourself 3,personality
+what can you do 4,personality
+tell about yourself 0,personality
+are you smart 1,personality
+tell about yourself 2,personality
+who are you 3,personality
+who are you 4,personality
+are you smart 0,personality
+what can you do 1,personality
+are you smart 2,personality
+tell about yourself 3,personality
+tell about yourself 4,personality
+who are you 0,personality
+who are you 1,personality
+tell about yourself 2,personality
+tell about yourself 3,personality
+who are you 4,personality
+tell about yourself 0,personality
+what can you do 1,personality
+what can you do 2,personality
+who are you 3,personality
+are you smart 4,personality
+are you smart 0,personality
+are you smart 1,personality
+who are you 2,personality
+tell about yourself 3,personality
+are you smart 4,personality
+tell about yourself 0,personality
+who are you 1,personality
+tell about yourself 2,personality
+tell about yourself 3,personality
+are you smart 4,personality
+tell about yourself 0,personality
+are you smart 1,personality
+what can you do 2,personality
+tell about yourself 3,personality
+tell about yourself 4,personality
+are you smart 0,personality
+what can you do 1,personality
+what can you do 2,personality
+what can you do 3,personality
+who are you 4,personality
+are you smart 0,personality
+are you smart 1,personality
+are you smart 2,personality
+are you smart 3,personality
+are you smart 4,personality
+tell about yourself 0,personality
+what can you do 1,personality
+what can you do 2,personality
+what can you do 3,personality
+who are you 4,personality
+who are you 0,personality
+what can you do 1,personality
+tell about yourself 2,personality
+who are you 3,personality
+what can you do 4,personality
+what can you do 0,personality
+tell about yourself 1,personality
+are you smart 2,personality
+tell about yourself 3,personality
+what can you do 4,personality
+what can you do 0,personality
+tell about yourself 1,personality
+who are you 2,personality
+who are you 3,personality
+are you smart 4,personality
+who are you 0,personality
+are you smart 1,personality
+who are you 2,personality
+who are you 3,personality
+tell about yourself 4,personality
+tell about yourself 0,personality
+who are you 1,personality
+are you smart 2,personality
+who are you 3,personality
+are you smart 4,personality
+tell about yourself 0,personality
+what can you do 1,personality
+tell about yourself 2,personality
+who are you 3,personality
+who are you 4,personality
+tell about yourself 0,personality
+what can you do 1,personality
+are you smart 2,personality
+what can you do 3,personality
+what can you do 4,personality
+tell about yourself 0,personality
+what can you do 1,personality
+tell about yourself 2,personality
+who are you 3,personality
+who are you 4,personality
+are you smart 0,personality
+what can you do 1,personality
+what can you do 2,personality
+tell about yourself 3,personality
+tell about yourself 4,personality
+who are you 0,personality
+who are you 1,personality
+who are you 2,personality
+tell about yourself 3,personality
+who are you 4,personality
+who are you 0,personality
+are you smart 1,personality
+tell about yourself 2,personality
+what can you do 3,personality
+tell about yourself 4,personality
+are you smart 0,personality
+what can you do 1,personality
+who are you 2,personality
+tell about yourself 3,personality
+what can you do 4,personality
+who are you 0,personality
+tell about yourself 1,personality
+what can you do 2,personality
+what can you do 3,personality
+are you smart 4,personality
+what can you do 0,personality
+tell about yourself 1,personality
+what can you do 2,personality
+what can you do 3,personality
+what can you do 4,personality
+calculate 5 plus 7 0,calculator
+calculate 5 plus 7 1,calculator
+calculate 5 plus 7 2,calculator
+solve 9 times 8 3,calculator
+calculate 5 plus 7 4,calculator
+solve 9 times 8 0,calculator
+add numbers 1,calculator
+add numbers 2,calculator
+12 divided by 4 3,calculator
+add numbers 4,calculator
+12 divided by 4 0,calculator
+calculate 5 plus 7 1,calculator
+add numbers 2,calculator
+calculate 5 plus 7 3,calculator
+add numbers 4,calculator
+solve 9 times 8 0,calculator
+12 divided by 4 1,calculator
+solve 9 times 8 2,calculator
+add numbers 3,calculator
+solve 9 times 8 4,calculator
+solve 9 times 8 0,calculator
+add numbers 1,calculator
+12 divided by 4 2,calculator
+12 divided by 4 3,calculator
+12 divided by 4 4,calculator
+solve 9 times 8 0,calculator
+12 divided by 4 1,calculator
+calculate 5 plus 7 2,calculator
+add numbers 3,calculator
+calculate 5 plus 7 4,calculator
+calculate 5 plus 7 0,calculator
+add numbers 1,calculator
+calculate 5 plus 7 2,calculator
+12 divided by 4 3,calculator
+12 divided by 4 4,calculator
+add numbers 0,calculator
+12 divided by 4 1,calculator
+solve 9 times 8 2,calculator
+calculate 5 plus 7 3,calculator
+12 divided by 4 4,calculator
+solve 9 times 8 0,calculator
+solve 9 times 8 1,calculator
+calculate 5 plus 7 2,calculator
+calculate 5 plus 7 3,calculator
+solve 9 times 8 4,calculator
+12 divided by 4 0,calculator
+calculate 5 plus 7 1,calculator
+calculate 5 plus 7 2,calculator
+12 divided by 4 3,calculator
+solve 9 times 8 4,calculator
+solve 9 times 8 0,calculator
+calculate 5 plus 7 1,calculator
+add numbers 2,calculator
+12 divided by 4 3,calculator
+add numbers 4,calculator
+12 divided by 4 0,calculator
+calculate 5 plus 7 1,calculator
+solve 9 times 8 2,calculator
+calculate 5 plus 7 3,calculator
+solve 9 times 8 4,calculator
+12 divided by 4 0,calculator
+12 divided by 4 1,calculator
+12 divided by 4 2,calculator
+add numbers 3,calculator
+add numbers 4,calculator
+12 divided by 4 0,calculator
+12 divided by 4 1,calculator
+12 divided by 4 2,calculator
+solve 9 times 8 3,calculator
+calculate 5 plus 7 4,calculator
+solve 9 times 8 0,calculator
+calculate 5 plus 7 1,calculator
+solve 9 times 8 2,calculator
+solve 9 times 8 3,calculator
+12 divided by 4 4,calculator
+12 divided by 4 0,calculator
+calculate 5 plus 7 1,calculator
+calculate 5 plus 7 2,calculator
+calculate 5 plus 7 3,calculator
+12 divided by 4 4,calculator
+calculate 5 plus 7 0,calculator
+12 divided by 4 1,calculator
+add numbers 2,calculator
+add numbers 3,calculator
+12 divided by 4 4,calculator
+12 divided by 4 0,calculator
+12 divided by 4 1,calculator
+add numbers 2,calculator
+add numbers 3,calculator
+add numbers 4,calculator
+calculate 5 plus 7 0,calculator
+12 divided by 4 1,calculator
+solve 9 times 8 2,calculator
+12 divided by 4 3,calculator
+add numbers 4,calculator
+solve 9 times 8 0,calculator
+calculate 5 plus 7 1,calculator
+add numbers 2,calculator
+solve 9 times 8 3,calculator
+calculate 5 plus 7 4,calculator
+12 divided by 4 0,calculator
+12 divided by 4 1,calculator
+add numbers 2,calculator
+calculate 5 plus 7 3,calculator
+12 divided by 4 4,calculator
+solve 9 times 8 0,calculator
+solve 9 times 8 1,calculator
+add numbers 2,calculator
+add numbers 3,calculator
+add numbers 4,calculator
+12 divided by 4 0,calculator
+12 divided by 4 1,calculator
+add numbers 2,calculator
+add numbers 3,calculator
+12 divided by 4 4,calculator
+add numbers 0,calculator
+12 divided by 4 1,calculator
+12 divided by 4 2,calculator
+add numbers 3,calculator
+calculate 5 plus 7 4,calculator
+add numbers 0,calculator
+solve 9 times 8 1,calculator
+calculate 5 plus 7 2,calculator
+solve 9 times 8 3,calculator
+12 divided by 4 4,calculator
+add numbers 0,calculator
+calculate 5 plus 7 1,calculator
+solve 9 times 8 2,calculator
+solve 9 times 8 3,calculator
+12 divided by 4 4,calculator
+calculate 5 plus 7 0,calculator
+solve 9 times 8 1,calculator
+solve 9 times 8 2,calculator
+calculate 5 plus 7 3,calculator
+12 divided by 4 4,calculator
+calculate 5 plus 7 0,calculator
+solve 9 times 8 1,calculator
+solve 9 times 8 2,calculator
+add numbers 3,calculator
+12 divided by 4 4,calculator
+add numbers 0,calculator
+add numbers 1,calculator
+solve 9 times 8 2,calculator
+solve 9 times 8 3,calculator
+calculate 5 plus 7 4,calculator
+solve 9 times 8 0,calculator
+calculate 5 plus 7 1,calculator
+solve 9 times 8 2,calculator
+calculate 5 plus 7 3,calculator
+12 divided by 4 4,calculator
+calculate 5 plus 7 0,calculator
+add numbers 1,calculator
+add numbers 2,calculator
+12 divided by 4 3,calculator
+12 divided by 4 4,calculator
+add numbers 0,calculator
+add numbers 1,calculator
+solve 9 times 8 2,calculator
+12 divided by 4 3,calculator
+12 divided by 4 4,calculator
+solve 9 times 8 0,calculator
+calculate 5 plus 7 1,calculator
+solve 9 times 8 2,calculator
+solve 9 times 8 3,calculator
+calculate 5 plus 7 4,calculator
+add numbers 0,calculator
+add numbers 1,calculator
+solve 9 times 8 2,calculator
+calculate 5 plus 7 3,calculator
+calculate 5 plus 7 4,calculator
+start fm 0,play_radio
+start fm 1,play_radio
+tune to station 2,play_radio
+start fm 3,play_radio
+start fm 4,play_radio
+start fm 0,play_radio
+tune to station 1,play_radio
+radio please 2,play_radio
+radio please 3,play_radio
+tune to station 4,play_radio
+tune to station 0,play_radio
+start fm 1,play_radio
+tune to station 2,play_radio
+radio please 3,play_radio
+play radio 4,play_radio
+play radio 0,play_radio
+play radio 1,play_radio
+radio please 2,play_radio
+tune to station 3,play_radio
+radio please 4,play_radio
+tune to station 0,play_radio
+play radio 1,play_radio
+radio please 2,play_radio
+start fm 3,play_radio
+play radio 4,play_radio
+radio please 0,play_radio
+start fm 1,play_radio
+start fm 2,play_radio
+tune to station 3,play_radio
+tune to station 4,play_radio
+radio please 0,play_radio
+radio please 1,play_radio
+play radio 2,play_radio
+radio please 3,play_radio
+play radio 4,play_radio
+tune to station 0,play_radio
+radio please 1,play_radio
+radio please 2,play_radio
+tune to station 3,play_radio
+start fm 4,play_radio
+start fm 0,play_radio
+tune to station 1,play_radio
+radio please 2,play_radio
+play radio 3,play_radio
+play radio 4,play_radio
+start fm 0,play_radio
+play radio 1,play_radio
+tune to station 2,play_radio
+tune to station 3,play_radio
+tune to station 4,play_radio
+start fm 0,play_radio
+tune to station 1,play_radio
+play radio 2,play_radio
+play radio 3,play_radio
+start fm 4,play_radio
+tune to station 0,play_radio
+start fm 1,play_radio
+start fm 2,play_radio
+start fm 3,play_radio
+play radio 4,play_radio
+tune to station 0,play_radio
+tune to station 1,play_radio
+tune to station 2,play_radio
+start fm 3,play_radio
+radio please 4,play_radio
+tune to station 0,play_radio
+tune to station 1,play_radio
+tune to station 2,play_radio
+play radio 3,play_radio
+start fm 4,play_radio
+start fm 0,play_radio
+play radio 1,play_radio
+tune to station 2,play_radio
+radio please 3,play_radio
+tune to station 4,play_radio
+tune to station 0,play_radio
+start fm 1,play_radio
+tune to station 2,play_radio
+radio please 3,play_radio
+radio please 4,play_radio
+tune to station 0,play_radio
+play radio 1,play_radio
+tune to station 2,play_radio
+tune to station 3,play_radio
+start fm 4,play_radio
+tune to station 0,play_radio
+play radio 1,play_radio
+tune to station 2,play_radio
+start fm 3,play_radio
+tune to station 4,play_radio
+radio please 0,play_radio
+start fm 1,play_radio
+tune to station 2,play_radio
+radio please 3,play_radio
+tune to station 4,play_radio
+play radio 0,play_radio
+play radio 1,play_radio
+play radio 2,play_radio
+start fm 3,play_radio
+radio please 4,play_radio
+start fm 0,play_radio
+radio please 1,play_radio
+radio please 2,play_radio
+play radio 3,play_radio
+play radio 4,play_radio
+start fm 0,play_radio
+tune to station 1,play_radio
+radio please 2,play_radio
+radio please 3,play_radio
+play radio 4,play_radio
+tune to station 0,play_radio
+start fm 1,play_radio
+start fm 2,play_radio
+start fm 3,play_radio
+radio please 4,play_radio
+tune to station 0,play_radio
+start fm 1,play_radio
+radio please 2,play_radio
+tune to station 3,play_radio
+radio please 4,play_radio
+play radio 0,play_radio
+play radio 1,play_radio
+radio please 2,play_radio
+radio please 3,play_radio
+tune to station 4,play_radio
+radio please 0,play_radio
+radio please 1,play_radio
+radio please 2,play_radio
+play radio 3,play_radio
+radio please 4,play_radio
+start fm 0,play_radio
+start fm 1,play_radio
+start fm 2,play_radio
+radio please 3,play_radio
+tune to station 4,play_radio
+radio please 0,play_radio
+start fm 1,play_radio
+tune to station 2,play_radio
+tune to station 3,play_radio
+play radio 4,play_radio
+play radio 0,play_radio
+play radio 1,play_radio
+tune to station 2,play_radio
+play radio 3,play_radio
+radio please 4,play_radio
+radio please 0,play_radio
+radio please 1,play_radio
+radio please 2,play_radio
+start fm 3,play_radio
+play radio 4,play_radio
+play radio 0,play_radio
+start fm 1,play_radio
+start fm 2,play_radio
+tune to station 3,play_radio
+start fm 4,play_radio
+tune to station 0,play_radio
+play radio 1,play_radio
+play radio 2,play_radio
+tune to station 3,play_radio
+play radio 4,play_radio
+start fm 0,play_radio
+start fm 1,play_radio
+start fm 2,play_radio
+radio please 3,play_radio
+radio please 4,play_radio
+start fm 0,play_radio
+radio please 1,play_radio
+radio please 2,play_radio
+play radio 3,play_radio
+tune to station 4,play_radio
+run evening routine 0,routine
+night routine 1,routine
+run evening routine 2,routine
+night routine 3,routine
+start routine 4,routine
+night routine 0,routine
+morning routine 1,routine
+run evening routine 2,routine
+start routine 3,routine
+night routine 4,routine
+morning routine 0,routine
+night routine 1,routine
+night routine 2,routine
+morning routine 3,routine
+start routine 4,routine
+run evening routine 0,routine
+morning routine 1,routine
+start routine 2,routine
+morning routine 3,routine
+night routine 4,routine
+night routine 0,routine
+run evening routine 1,routine
+run evening routine 2,routine
+night routine 3,routine
+night routine 4,routine
+start routine 0,routine
+morning routine 1,routine
+start routine 2,routine
+morning routine 3,routine
+run evening routine 4,routine
+morning routine 0,routine
+start routine 1,routine
+start routine 2,routine
+start routine 3,routine
+start routine 4,routine
+start routine 0,routine
+night routine 1,routine
+morning routine 2,routine
+night routine 3,routine
+start routine 4,routine
+night routine 0,routine
+morning routine 1,routine
+run evening routine 2,routine
+start routine 3,routine
+start routine 4,routine
+morning routine 0,routine
+night routine 1,routine
+morning routine 2,routine
+run evening routine 3,routine
+start routine 4,routine
+start routine 0,routine
+morning routine 1,routine
+start routine 2,routine
+run evening routine 3,routine
+night routine 4,routine
+night routine 0,routine
+run evening routine 1,routine
+run evening routine 2,routine
+night routine 3,routine
+morning routine 4,routine
+night routine 0,routine
+morning routine 1,routine
+start routine 2,routine
+morning routine 3,routine
+night routine 4,routine
+night routine 0,routine
+night routine 1,routine
+morning routine 2,routine
+run evening routine 3,routine
+run evening routine 4,routine
+run evening routine 0,routine
+start routine 1,routine
+night routine 2,routine
+morning routine 3,routine
+morning routine 4,routine
+start routine 0,routine
+run evening routine 1,routine
+run evening routine 2,routine
+night routine 3,routine
+night routine 4,routine
+run evening routine 0,routine
+morning routine 1,routine
+night routine 2,routine
+run evening routine 3,routine
+night routine 4,routine
+start routine 0,routine
+start routine 1,routine
+start routine 2,routine
+night routine 3,routine
+morning routine 4,routine
+night routine 0,routine
+night routine 1,routine
+start routine 2,routine
+run evening routine 3,routine
+morning routine 4,routine
+night routine 0,routine
+start routine 1,routine
+night routine 2,routine
+run evening routine 3,routine
+night routine 4,routine
+run evening routine 0,routine
+start routine 1,routine
+morning routine 2,routine
+morning routine 3,routine
+morning routine 4,routine
+night routine 0,routine
+morning routine 1,routine
+morning routine 2,routine
+start routine 3,routine
+start routine 4,routine
+start routine 0,routine
+start routine 1,routine
+run evening routine 2,routine
+morning routine 3,routine
+start routine 4,routine
+run evening routine 0,routine
+morning routine 1,routine
+run evening routine 2,routine
+morning routine 3,routine
+night routine 4,routine
+morning routine 0,routine
+morning routine 1,routine
+morning routine 2,routine
+run evening routine 3,routine
+run evening routine 4,routine
+morning routine 0,routine
+morning routine 1,routine
+start routine 2,routine
+morning routine 3,routine
+run evening routine 4,routine
+run evening routine 0,routine
+start routine 1,routine
+run evening routine 2,routine
+start routine 3,routine
+start routine 4,routine
+run evening routine 0,routine
+morning routine 1,routine
+start routine 2,routine
+run evening routine 3,routine
+night routine 4,routine
+start routine 0,routine
+morning routine 1,routine
+night routine 2,routine
+night routine 3,routine
+morning routine 4,routine
+run evening routine 0,routine
+start routine 1,routine
+night routine 2,routine
+night routine 3,routine
+morning routine 4,routine
+run evening routine 0,routine
+run evening routine 1,routine
+start routine 2,routine
+start routine 3,routine
+night routine 4,routine
+night routine 0,routine
+night routine 1,routine
+start routine 2,routine
+night routine 3,routine
+run evening routine 4,routine
+morning routine 0,routine
+morning routine 1,routine
+run evening routine 2,routine
+morning routine 3,routine
+run evening routine 4,routine
+run evening routine 0,routine
+start routine 1,routine
+night routine 2,routine
+night routine 3,routine
+start routine 4,routine
+add task 0,todo_task
+new to do 1,todo_task
+task for today 2,todo_task
+remember homework 3,todo_task
+task for today 4,todo_task
+new to do 0,todo_task
+new to do 1,todo_task
+remember homework 2,todo_task
+remember homework 3,todo_task
+new to do 4,todo_task
+add task 0,todo_task
+task for today 1,todo_task
+task for today 2,todo_task
+add task 3,todo_task
+task for today 4,todo_task
+new to do 0,todo_task
+new to do 1,todo_task
+add task 2,todo_task
+new to do 3,todo_task
+task for today 4,todo_task
+new to do 0,todo_task
+add task 1,todo_task
+add task 2,todo_task
+task for today 3,todo_task
+new to do 4,todo_task
+add task 0,todo_task
+add task 1,todo_task
+task for today 2,todo_task
+new to do 3,todo_task
+add task 4,todo_task
+task for today 0,todo_task
+remember homework 1,todo_task
+add task 2,todo_task
+task for today 3,todo_task
+remember homework 4,todo_task
+task for today 0,todo_task
+new to do 1,todo_task
+add task 2,todo_task
+add task 3,todo_task
+add task 4,todo_task
+add task 0,todo_task
+new to do 1,todo_task
+task for today 2,todo_task
+task for today 3,todo_task
+remember homework 4,todo_task
+new to do 0,todo_task
+remember homework 1,todo_task
+remember homework 2,todo_task
+remember homework 3,todo_task
+remember homework 4,todo_task
+task for today 0,todo_task
+remember homework 1,todo_task
+remember homework 2,todo_task
+new to do 3,todo_task
+add task 4,todo_task
+new to do 0,todo_task
+new to do 1,todo_task
+task for today 2,todo_task
+new to do 3,todo_task
+new to do 4,todo_task
+add task 0,todo_task
+remember homework 1,todo_task
+task for today 2,todo_task
+task for today 3,todo_task
+new to do 4,todo_task
+task for today 0,todo_task
+remember homework 1,todo_task
+add task 2,todo_task
+task for today 3,todo_task
+task for today 4,todo_task
+add task 0,todo_task
+new to do 1,todo_task
+remember homework 2,todo_task
+task for today 3,todo_task
+new to do 4,todo_task
+remember homework 0,todo_task
+add task 1,todo_task
+new to do 2,todo_task
+remember homework 3,todo_task
+remember homework 4,todo_task
+remember homework 0,todo_task
+task for today 1,todo_task
+new to do 2,todo_task
+remember homework 3,todo_task
+new to do 4,todo_task
+remember homework 0,todo_task
+remember homework 1,todo_task
+new to do 2,todo_task
+remember homework 3,todo_task
+add task 4,todo_task
+new to do 0,todo_task
+remember homework 1,todo_task
+new to do 2,todo_task
+remember homework 3,todo_task
+add task 4,todo_task
+task for today 0,todo_task
+remember homework 1,todo_task
+remember homework 2,todo_task
+task for today 3,todo_task
+remember homework 4,todo_task
+add task 0,todo_task
+new to do 1,todo_task
+task for today 2,todo_task
+task for today 3,todo_task
+task for today 4,todo_task
+add task 0,todo_task
+add task 1,todo_task
+new to do 2,todo_task
+add task 3,todo_task
+add task 4,todo_task
+new to do 0,todo_task
+task for today 1,todo_task
+new to do 2,todo_task
+task for today 3,todo_task
+new to do 4,todo_task
+new to do 0,todo_task
+task for today 1,todo_task
+new to do 2,todo_task
+new to do 3,todo_task
+remember homework 4,todo_task
+new to do 0,todo_task
+remember homework 1,todo_task
+new to do 2,todo_task
+task for today 3,todo_task
+remember homework 4,todo_task
+add task 0,todo_task
+new to do 1,todo_task
+add task 2,todo_task
+remember homework 3,todo_task
+add task 4,todo_task
+add task 0,todo_task
+add task 1,todo_task
+add task 2,todo_task
+task for today 3,todo_task
+new to do 4,todo_task
+task for today 0,todo_task
+add task 1,todo_task
+remember homework 2,todo_task
+task for today 3,todo_task
+new to do 4,todo_task
+task for today 0,todo_task
+remember homework 1,todo_task
+add task 2,todo_task
+add task 3,todo_task
+task for today 4,todo_task
+remember homework 0,todo_task
+task for today 1,todo_task
+new to do 2,todo_task
+new to do 3,todo_task
+add task 4,todo_task
+remember homework 0,todo_task
+task for today 1,todo_task
+remember homework 2,todo_task
+new to do 3,todo_task
+new to do 4,todo_task
+new to do 0,todo_task
+new to do 1,todo_task
+task for today 2,todo_task
+remember homework 3,todo_task
+task for today 4,todo_task
+remember homework 0,todo_task
+task for today 1,todo_task
+new to do 2,todo_task
+add task 3,todo_task
+add task 4,todo_task
+new to do 0,todo_task
+add task 1,todo_task
+remember homework 2,todo_task
+remember homework 3,todo_task
+remember homework 4,todo_task
+meters to feet 0,unit_conversion
+convert miles to km 1,unit_conversion
+meters to feet 2,unit_conversion
+meters to feet 3,unit_conversion
+meters to feet 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+grams in kg 1,unit_conversion
+meters to feet 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+grams in kg 4,unit_conversion
+grams in kg 0,unit_conversion
+convert miles to km 1,unit_conversion
+grams in kg 2,unit_conversion
+grams in kg 3,unit_conversion
+meters to feet 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+grams in kg 1,unit_conversion
+grams in kg 2,unit_conversion
+meters to feet 3,unit_conversion
+celsius to fahrenheit 4,unit_conversion
+grams in kg 0,unit_conversion
+meters to feet 1,unit_conversion
+convert miles to km 2,unit_conversion
+grams in kg 3,unit_conversion
+grams in kg 4,unit_conversion
+meters to feet 0,unit_conversion
+convert miles to km 1,unit_conversion
+celsius to fahrenheit 2,unit_conversion
+convert miles to km 3,unit_conversion
+grams in kg 4,unit_conversion
+grams in kg 0,unit_conversion
+convert miles to km 1,unit_conversion
+grams in kg 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+grams in kg 4,unit_conversion
+convert miles to km 0,unit_conversion
+convert miles to km 1,unit_conversion
+grams in kg 2,unit_conversion
+meters to feet 3,unit_conversion
+grams in kg 4,unit_conversion
+grams in kg 0,unit_conversion
+convert miles to km 1,unit_conversion
+convert miles to km 2,unit_conversion
+meters to feet 3,unit_conversion
+grams in kg 4,unit_conversion
+meters to feet 0,unit_conversion
+convert miles to km 1,unit_conversion
+convert miles to km 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+grams in kg 4,unit_conversion
+meters to feet 0,unit_conversion
+meters to feet 1,unit_conversion
+celsius to fahrenheit 2,unit_conversion
+convert miles to km 3,unit_conversion
+grams in kg 4,unit_conversion
+grams in kg 0,unit_conversion
+grams in kg 1,unit_conversion
+meters to feet 2,unit_conversion
+convert miles to km 3,unit_conversion
+convert miles to km 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+celsius to fahrenheit 1,unit_conversion
+meters to feet 2,unit_conversion
+grams in kg 3,unit_conversion
+meters to feet 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+grams in kg 1,unit_conversion
+meters to feet 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+meters to feet 4,unit_conversion
+convert miles to km 0,unit_conversion
+convert miles to km 1,unit_conversion
+grams in kg 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+grams in kg 4,unit_conversion
+meters to feet 0,unit_conversion
+grams in kg 1,unit_conversion
+celsius to fahrenheit 2,unit_conversion
+grams in kg 3,unit_conversion
+grams in kg 4,unit_conversion
+meters to feet 0,unit_conversion
+grams in kg 1,unit_conversion
+grams in kg 2,unit_conversion
+grams in kg 3,unit_conversion
+celsius to fahrenheit 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+meters to feet 1,unit_conversion
+meters to feet 2,unit_conversion
+convert miles to km 3,unit_conversion
+convert miles to km 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+grams in kg 1,unit_conversion
+convert miles to km 2,unit_conversion
+convert miles to km 3,unit_conversion
+convert miles to km 4,unit_conversion
+meters to feet 0,unit_conversion
+grams in kg 1,unit_conversion
+celsius to fahrenheit 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+meters to feet 4,unit_conversion
+convert miles to km 0,unit_conversion
+grams in kg 1,unit_conversion
+convert miles to km 2,unit_conversion
+grams in kg 3,unit_conversion
+grams in kg 4,unit_conversion
+convert miles to km 0,unit_conversion
+meters to feet 1,unit_conversion
+celsius to fahrenheit 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+grams in kg 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+celsius to fahrenheit 1,unit_conversion
+celsius to fahrenheit 2,unit_conversion
+grams in kg 3,unit_conversion
+convert miles to km 4,unit_conversion
+grams in kg 0,unit_conversion
+convert miles to km 1,unit_conversion
+convert miles to km 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+grams in kg 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+meters to feet 1,unit_conversion
+celsius to fahrenheit 2,unit_conversion
+celsius to fahrenheit 3,unit_conversion
+meters to feet 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+celsius to fahrenheit 1,unit_conversion
+convert miles to km 2,unit_conversion
+grams in kg 3,unit_conversion
+celsius to fahrenheit 4,unit_conversion
+meters to feet 0,unit_conversion
+celsius to fahrenheit 1,unit_conversion
+convert miles to km 2,unit_conversion
+convert miles to km 3,unit_conversion
+convert miles to km 4,unit_conversion
+convert miles to km 0,unit_conversion
+meters to feet 1,unit_conversion
+grams in kg 2,unit_conversion
+convert miles to km 3,unit_conversion
+meters to feet 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+celsius to fahrenheit 1,unit_conversion
+celsius to fahrenheit 2,unit_conversion
+meters to feet 3,unit_conversion
+celsius to fahrenheit 4,unit_conversion
+celsius to fahrenheit 0,unit_conversion
+meters to feet 1,unit_conversion
+grams in kg 2,unit_conversion
+convert miles to km 3,unit_conversion
+celsius to fahrenheit 4,unit_conversion
+meters to feet 0,unit_conversion
+celsius to fahrenheit 1,unit_conversion
+meters to feet 2,unit_conversion
+meters to feet 3,unit_conversion
+celsius to fahrenheit 4,unit_conversion
+meters to feet 0,unit_conversion
+meters to feet 1,unit_conversion
+convert miles to km 2,unit_conversion
+convert miles to km 3,unit_conversion
+celsius to fahrenheit 4,unit_conversion
+convert miles to km 0,unit_conversion
+celsius to fahrenheit 1,unit_conversion
+meters to feet 2,unit_conversion
+grams in kg 3,unit_conversion
+meters to feet 4,unit_conversion
+convert miles to km 0,unit_conversion
+celsius to fahrenheit 1,unit_conversion
+grams in kg 2,unit_conversion
+grams in kg 3,unit_conversion
+celsius to fahrenheit 4,unit_conversion
+english to french 0,translation
+translate hello to spanish 1,translation
+translate hello to spanish 2,translation
+translate hello to spanish 3,translation
+english to french 4,translation
+say hi in german 0,translation
+translate hello to spanish 1,translation
+say hi in german 2,translation
+english to french 3,translation
+translate thank you 4,translation
+translate thank you 0,translation
+english to french 1,translation
+translate thank you 2,translation
+say hi in german 3,translation
+translate thank you 4,translation
+translate thank you 0,translation
+translate thank you 1,translation
+english to french 2,translation
+say hi in german 3,translation
+english to french 4,translation
+translate thank you 0,translation
+english to french 1,translation
+english to french 2,translation
+translate hello to spanish 3,translation
+translate thank you 4,translation
+translate thank you 0,translation
+say hi in german 1,translation
+english to french 2,translation
+say hi in german 3,translation
+translate hello to spanish 4,translation
+say hi in german 0,translation
+translate thank you 1,translation
+say hi in german 2,translation
+translate hello to spanish 3,translation
+say hi in german 4,translation
+translate thank you 0,translation
+translate thank you 1,translation
+english to french 2,translation
+say hi in german 3,translation
+translate hello to spanish 4,translation
+english to french 0,translation
+translate hello to spanish 1,translation
+translate thank you 2,translation
+translate thank you 3,translation
+english to french 4,translation
+translate thank you 0,translation
+say hi in german 1,translation
+say hi in german 2,translation
+translate hello to spanish 3,translation
+translate thank you 4,translation
+translate hello to spanish 0,translation
+translate thank you 1,translation
+translate thank you 2,translation
+translate thank you 3,translation
+translate hello to spanish 4,translation
+english to french 0,translation
+say hi in german 1,translation
+translate thank you 2,translation
+english to french 3,translation
+english to french 4,translation
+say hi in german 0,translation
+say hi in german 1,translation
+english to french 2,translation
+translate hello to spanish 3,translation
+translate thank you 4,translation
+say hi in german 0,translation
+translate thank you 1,translation
+translate hello to spanish 2,translation
+say hi in german 3,translation
+translate hello to spanish 4,translation
+translate hello to spanish 0,translation
+translate thank you 1,translation
+translate hello to spanish 2,translation
+translate thank you 3,translation
+translate thank you 4,translation
+translate thank you 0,translation
+english to french 1,translation
+translate hello to spanish 2,translation
+say hi in german 3,translation
+english to french 4,translation
+english to french 0,translation
+translate hello to spanish 1,translation
+english to french 2,translation
+translate hello to spanish 3,translation
+english to french 4,translation
+say hi in german 0,translation
+say hi in german 1,translation
+english to french 2,translation
+translate thank you 3,translation
+english to french 4,translation
+translate hello to spanish 0,translation
+say hi in german 1,translation
+translate thank you 2,translation
+translate thank you 3,translation
+translate thank you 4,translation
+english to french 0,translation
+say hi in german 1,translation
+english to french 2,translation
+translate hello to spanish 3,translation
+translate hello to spanish 4,translation
+say hi in german 0,translation
+say hi in german 1,translation
+translate thank you 2,translation
+say hi in german 3,translation
+english to french 4,translation
+translate hello to spanish 0,translation
+translate hello to spanish 1,translation
+translate thank you 2,translation
+translate hello to spanish 3,translation
+say hi in german 4,translation
+translate thank you 0,translation
+say hi in german 1,translation
+english to french 2,translation
+translate thank you 3,translation
+translate thank you 4,translation
+translate hello to spanish 0,translation
+say hi in german 1,translation
+say hi in german 2,translation
+translate hello to spanish 3,translation
+translate thank you 4,translation
+say hi in german 0,translation
+say hi in german 1,translation
+say hi in german 2,translation
+translate thank you 3,translation
+say hi in german 4,translation
+english to french 0,translation
+english to french 1,translation
+translate hello to spanish 2,translation
+translate hello to spanish 3,translation
+translate hello to spanish 4,translation
+translate thank you 0,translation
+say hi in german 1,translation
+english to french 2,translation
+english to french 3,translation
+translate thank you 4,translation
+english to french 0,translation
+english to french 1,translation
+say hi in german 2,translation
+say hi in german 3,translation
+say hi in german 4,translation
+translate hello to spanish 0,translation
+translate hello to spanish 1,translation
+translate thank you 2,translation
+translate thank you 3,translation
+say hi in german 4,translation
+english to french 0,translation
+english to french 1,translation
+say hi in german 2,translation
+english to french 3,translation
+say hi in german 4,translation
+translate thank you 0,translation
+english to french 1,translation
+english to french 2,translation
+english to french 3,translation
+english to french 4,translation
+english to french 0,translation
+translate thank you 1,translation
+say hi in german 2,translation
+say hi in german 3,translation
+english to french 4,translation
+translate thank you 0,translation
+translate hello to spanish 1,translation
+translate thank you 2,translation
+english to french 3,translation
+english to french 4,translation
+english to french 0,translation
+translate hello to spanish 1,translation
+translate thank you 2,translation
+say hi in german 3,translation
+translate hello to spanish 4,translation
+meaning of algorithm 0,dictionary
+define gravity 1,dictionary
+define neural network 2,dictionary
+meaning of algorithm 3,dictionary
+define gravity 4,dictionary
+meaning of algorithm 0,dictionary
+word meaning 1,dictionary
+define neural network 2,dictionary
+meaning of algorithm 3,dictionary
+define neural network 4,dictionary
+meaning of algorithm 0,dictionary
+meaning of algorithm 1,dictionary
+define gravity 2,dictionary
+define neural network 3,dictionary
+word meaning 4,dictionary
+word meaning 0,dictionary
+meaning of algorithm 1,dictionary
+word meaning 2,dictionary
+define neural network 3,dictionary
+word meaning 4,dictionary
+define gravity 0,dictionary
+define neural network 1,dictionary
+define neural network 2,dictionary
+define neural network 3,dictionary
+define neural network 4,dictionary
+define neural network 0,dictionary
+meaning of algorithm 1,dictionary
+meaning of algorithm 2,dictionary
+meaning of algorithm 3,dictionary
+define neural network 4,dictionary
+word meaning 0,dictionary
+word meaning 1,dictionary
+meaning of algorithm 2,dictionary
+define neural network 3,dictionary
+define neural network 4,dictionary
+define gravity 0,dictionary
+word meaning 1,dictionary
+word meaning 2,dictionary
+meaning of algorithm 3,dictionary
+define neural network 4,dictionary
+define neural network 0,dictionary
+meaning of algorithm 1,dictionary
+define gravity 2,dictionary
+meaning of algorithm 3,dictionary
+define neural network 4,dictionary
+define gravity 0,dictionary
+word meaning 1,dictionary
+word meaning 2,dictionary
+word meaning 3,dictionary
+define neural network 4,dictionary
+meaning of algorithm 0,dictionary
+define neural network 1,dictionary
+meaning of algorithm 2,dictionary
+define neural network 3,dictionary
+word meaning 4,dictionary
+word meaning 0,dictionary
+define gravity 1,dictionary
+word meaning 2,dictionary
+word meaning 3,dictionary
+define neural network 4,dictionary
+define neural network 0,dictionary
+define neural network 1,dictionary
+define neural network 2,dictionary
+word meaning 3,dictionary
+define neural network 4,dictionary
+define gravity 0,dictionary
+define gravity 1,dictionary
+word meaning 2,dictionary
+define gravity 3,dictionary
+define neural network 4,dictionary
+meaning of algorithm 0,dictionary
+define neural network 1,dictionary
+define gravity 2,dictionary
+define gravity 3,dictionary
+define gravity 4,dictionary
+word meaning 0,dictionary
+define gravity 1,dictionary
+meaning of algorithm 2,dictionary
+define gravity 3,dictionary
+define neural network 4,dictionary
+define gravity 0,dictionary
+word meaning 1,dictionary
+define neural network 2,dictionary
+define gravity 3,dictionary
+word meaning 4,dictionary
+meaning of algorithm 0,dictionary
+word meaning 1,dictionary
+word meaning 2,dictionary
+meaning of algorithm 3,dictionary
+word meaning 4,dictionary
+define gravity 0,dictionary
+define neural network 1,dictionary
+word meaning 2,dictionary
+meaning of algorithm 3,dictionary
+define neural network 4,dictionary
+define gravity 0,dictionary
+meaning of algorithm 1,dictionary
+define neural network 2,dictionary
+define neural network 3,dictionary
+define gravity 4,dictionary
+meaning of algorithm 0,dictionary
+meaning of algorithm 1,dictionary
+meaning of algorithm 2,dictionary
+define neural network 3,dictionary
+define gravity 4,dictionary
+meaning of algorithm 0,dictionary
+meaning of algorithm 1,dictionary
+define neural network 2,dictionary
+define neural network 3,dictionary
+meaning of algorithm 4,dictionary
+meaning of algorithm 0,dictionary
+word meaning 1,dictionary
+word meaning 2,dictionary
+define gravity 3,dictionary
+meaning of algorithm 4,dictionary
+define neural network 0,dictionary
+meaning of algorithm 1,dictionary
+meaning of algorithm 2,dictionary
+define neural network 3,dictionary
+define neural network 4,dictionary
+word meaning 0,dictionary
+meaning of algorithm 1,dictionary
+define gravity 2,dictionary
+define neural network 3,dictionary
+define gravity 4,dictionary
+word meaning 0,dictionary
+word meaning 1,dictionary
+meaning of algorithm 2,dictionary
+word meaning 3,dictionary
+define neural network 4,dictionary
+define gravity 0,dictionary
+define gravity 1,dictionary
+define gravity 2,dictionary
+meaning of algorithm 3,dictionary
+word meaning 4,dictionary
+define neural network 0,dictionary
+word meaning 1,dictionary
+meaning of algorithm 2,dictionary
+define neural network 3,dictionary
+word meaning 4,dictionary
+meaning of algorithm 0,dictionary
+define neural network 1,dictionary
+meaning of algorithm 2,dictionary
+define neural network 3,dictionary
+define gravity 4,dictionary
+define gravity 0,dictionary
+define neural network 1,dictionary
+define gravity 2,dictionary
+word meaning 3,dictionary
+define gravity 4,dictionary
+define neural network 0,dictionary
+define gravity 1,dictionary
+define neural network 2,dictionary
+word meaning 3,dictionary
+word meaning 4,dictionary
+word meaning 0,dictionary
+word meaning 1,dictionary
+word meaning 2,dictionary
+define neural network 3,dictionary
+word meaning 4,dictionary
+meaning of algorithm 0,dictionary
+meaning of algorithm 1,dictionary
+meaning of algorithm 2,dictionary
+define gravity 3,dictionary
+word meaning 4,dictionary
+word meaning 0,dictionary
+meaning of algorithm 1,dictionary
+define gravity 2,dictionary
+meaning of algorithm 3,dictionary
+define gravity 4,dictionary
+play podcast 0,podcast_audiobook
+start audiobook 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+start audiobook 3,podcast_audiobook
+resume audiobook 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+continue podcast 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+continue podcast 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+start audiobook 3,podcast_audiobook
+resume audiobook 4,podcast_audiobook
+resume audiobook 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+resume audiobook 0,podcast_audiobook
+play podcast 1,podcast_audiobook
+start audiobook 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+start audiobook 4,podcast_audiobook
+resume audiobook 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+start audiobook 4,podcast_audiobook
+start audiobook 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+resume audiobook 4,podcast_audiobook
+resume audiobook 0,podcast_audiobook
+play podcast 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+continue podcast 4,podcast_audiobook
+resume audiobook 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+continue podcast 3,podcast_audiobook
+continue podcast 4,podcast_audiobook
+continue podcast 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+start audiobook 4,podcast_audiobook
+continue podcast 0,podcast_audiobook
+start audiobook 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+continue podcast 3,podcast_audiobook
+resume audiobook 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+start audiobook 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+continue podcast 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+start audiobook 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+start audiobook 3,podcast_audiobook
+start audiobook 4,podcast_audiobook
+start audiobook 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+start audiobook 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+continue podcast 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+continue podcast 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+play podcast 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+start audiobook 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+continue podcast 4,podcast_audiobook
+start audiobook 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+start audiobook 2,podcast_audiobook
+continue podcast 3,podcast_audiobook
+start audiobook 4,podcast_audiobook
+continue podcast 0,podcast_audiobook
+start audiobook 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+continue podcast 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+play podcast 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+continue podcast 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+continue podcast 0,podcast_audiobook
+start audiobook 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+start audiobook 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+continue podcast 4,podcast_audiobook
+continue podcast 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+start audiobook 0,podcast_audiobook
+play podcast 1,podcast_audiobook
+start audiobook 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+resume audiobook 4,podcast_audiobook
+resume audiobook 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+start audiobook 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+start audiobook 4,podcast_audiobook
+start audiobook 0,podcast_audiobook
+play podcast 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+continue podcast 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+start audiobook 0,podcast_audiobook
+play podcast 1,podcast_audiobook
+play podcast 2,podcast_audiobook
+resume audiobook 3,podcast_audiobook
+continue podcast 4,podcast_audiobook
+continue podcast 0,podcast_audiobook
+start audiobook 1,podcast_audiobook
+start audiobook 2,podcast_audiobook
+start audiobook 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+continue podcast 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+start audiobook 3,podcast_audiobook
+play podcast 4,podcast_audiobook
+resume audiobook 0,podcast_audiobook
+resume audiobook 1,podcast_audiobook
+continue podcast 2,podcast_audiobook
+play podcast 3,podcast_audiobook
+continue podcast 4,podcast_audiobook
+play podcast 0,podcast_audiobook
+play podcast 1,podcast_audiobook
+resume audiobook 2,podcast_audiobook
+start audiobook 3,podcast_audiobook
+start audiobook 4,podcast_audiobook
+device status 0,device_status
+are lights on 1,device_status
+is door locked 2,device_status
+device status 3,device_status
+device status 4,device_status
+device status 0,device_status
+is door locked 1,device_status
+are lights on 2,device_status
+device status 3,device_status
+device status 4,device_status
+device status 0,device_status
+are lights on 1,device_status
+device status 2,device_status
+device status 3,device_status
+is door locked 4,device_status
+is door locked 0,device_status
+is door locked 1,device_status
+device status 2,device_status
+are lights on 3,device_status
+is door locked 4,device_status
+device status 0,device_status
+are lights on 1,device_status
+are lights on 2,device_status
+are lights on 3,device_status
+is door locked 4,device_status
+are lights on 0,device_status
+device status 1,device_status
+device status 2,device_status
+device status 3,device_status
+are lights on 4,device_status
+is door locked 0,device_status
+are lights on 1,device_status
+device status 2,device_status
+device status 3,device_status
+wifi status 4,device_status
+device status 0,device_status
+is door locked 1,device_status
+device status 2,device_status
+are lights on 3,device_status
+wifi status 4,device_status
+are lights on 0,device_status
+wifi status 1,device_status
+is door locked 2,device_status
+device status 3,device_status
+wifi status 4,device_status
+wifi status 0,device_status
+wifi status 1,device_status
+is door locked 2,device_status
+is door locked 3,device_status
+device status 4,device_status
+wifi status 0,device_status
+are lights on 1,device_status
+are lights on 2,device_status
+is door locked 3,device_status
+is door locked 4,device_status
+is door locked 0,device_status
+are lights on 1,device_status
+device status 2,device_status
+wifi status 3,device_status
+is door locked 4,device_status
+device status 0,device_status
+is door locked 1,device_status
+are lights on 2,device_status
+are lights on 3,device_status
+are lights on 4,device_status
+wifi status 0,device_status
+are lights on 1,device_status
+device status 2,device_status
+are lights on 3,device_status
+device status 4,device_status
+device status 0,device_status
+device status 1,device_status
+is door locked 2,device_status
+device status 3,device_status
+are lights on 4,device_status
+are lights on 0,device_status
+wifi status 1,device_status
+is door locked 2,device_status
+wifi status 3,device_status
+wifi status 4,device_status
+device status 0,device_status
+is door locked 1,device_status
+are lights on 2,device_status
+are lights on 3,device_status
+are lights on 4,device_status
+are lights on 0,device_status
+is door locked 1,device_status
+are lights on 2,device_status
+wifi status 3,device_status
+wifi status 4,device_status
+is door locked 0,device_status
+wifi status 1,device_status
+are lights on 2,device_status
+wifi status 3,device_status
+is door locked 4,device_status
+device status 0,device_status
+is door locked 1,device_status
+wifi status 2,device_status
+are lights on 3,device_status
+is door locked 4,device_status
+are lights on 0,device_status
+wifi status 1,device_status
+is door locked 2,device_status
+is door locked 3,device_status
+device status 4,device_status
+are lights on 0,device_status
+device status 1,device_status
+device status 2,device_status
+is door locked 3,device_status
+is door locked 4,device_status
+wifi status 0,device_status
+device status 1,device_status
+device status 2,device_status
+device status 3,device_status
+wifi status 4,device_status
+is door locked 0,device_status
+are lights on 1,device_status
+wifi status 2,device_status
+is door locked 3,device_status
+device status 4,device_status
+wifi status 0,device_status
+device status 1,device_status
+device status 2,device_status
+wifi status 3,device_status
+device status 4,device_status
+is door locked 0,device_status
+device status 1,device_status
+device status 2,device_status
+is door locked 3,device_status
+is door locked 4,device_status
+are lights on 0,device_status
+are lights on 1,device_status
+device status 2,device_status
+device status 3,device_status
+is door locked 4,device_status
+are lights on 0,device_status
+device status 1,device_status
+are lights on 2,device_status
+are lights on 3,device_status
+wifi status 4,device_status
+device status 0,device_status
+wifi status 1,device_status
+wifi status 2,device_status
+wifi status 3,device_status
+device status 4,device_status
+wifi status 0,device_status
+is door locked 1,device_status
+device status 2,device_status
+device status 3,device_status
+wifi status 4,device_status
+are lights on 0,device_status
+device status 1,device_status
+are lights on 2,device_status
+device status 3,device_status
+device status 4,device_status
+device status 0,device_status
+device status 1,device_status
+wifi status 2,device_status
+wifi status 3,device_status
+are lights on 4,device_status
+are lights on 0,device_status
+wifi status 1,device_status
+are lights on 2,device_status
+wifi status 3,device_status
+are lights on 4,device_status
+device status 0,device_status
+is door locked 1,device_status
+device status 2,device_status
+device status 3,device_status
+are lights on 4,device_status
+quiz time 0,games_trivia
+quiz time 1,games_trivia
+fun game 2,games_trivia
+quiz time 3,games_trivia
+start trivia 4,games_trivia
+fun game 0,games_trivia
+fun game 1,games_trivia
+quiz time 2,games_trivia
+start trivia 3,games_trivia
+play a game 4,games_trivia
+start trivia 0,games_trivia
+quiz time 1,games_trivia
+fun game 2,games_trivia
+quiz time 3,games_trivia
+fun game 4,games_trivia
+fun game 0,games_trivia
+fun game 1,games_trivia
+play a game 2,games_trivia
+quiz time 3,games_trivia
+fun game 4,games_trivia
+fun game 0,games_trivia
+start trivia 1,games_trivia
+play a game 2,games_trivia
+play a game 3,games_trivia
+start trivia 4,games_trivia
+start trivia 0,games_trivia
+fun game 1,games_trivia
+start trivia 2,games_trivia
+fun game 3,games_trivia
+fun game 4,games_trivia
+fun game 0,games_trivia
+start trivia 1,games_trivia
+fun game 2,games_trivia
+quiz time 3,games_trivia
+play a game 4,games_trivia
+fun game 0,games_trivia
+fun game 1,games_trivia
+start trivia 2,games_trivia
+quiz time 3,games_trivia
+quiz time 4,games_trivia
+play a game 0,games_trivia
+start trivia 1,games_trivia
+fun game 2,games_trivia
+play a game 3,games_trivia
+start trivia 4,games_trivia
+quiz time 0,games_trivia
+quiz time 1,games_trivia
+quiz time 2,games_trivia
+fun game 3,games_trivia
+start trivia 4,games_trivia
+start trivia 0,games_trivia
+fun game 1,games_trivia
+play a game 2,games_trivia
+start trivia 3,games_trivia
+quiz time 4,games_trivia
+quiz time 0,games_trivia
+quiz time 1,games_trivia
+quiz time 2,games_trivia
+start trivia 3,games_trivia
+fun game 4,games_trivia
+fun game 0,games_trivia
+play a game 1,games_trivia
+fun game 2,games_trivia
+play a game 3,games_trivia
+play a game 4,games_trivia
+quiz time 0,games_trivia
+quiz time 1,games_trivia
+play a game 2,games_trivia
+start trivia 3,games_trivia
+fun game 4,games_trivia
+start trivia 0,games_trivia
+start trivia 1,games_trivia
+play a game 2,games_trivia
+fun game 3,games_trivia
+play a game 4,games_trivia
+start trivia 0,games_trivia
+quiz time 1,games_trivia
+play a game 2,games_trivia
+quiz time 3,games_trivia
+start trivia 4,games_trivia
+play a game 0,games_trivia
+play a game 1,games_trivia
+quiz time 2,games_trivia
+play a game 3,games_trivia
+play a game 4,games_trivia
+fun game 0,games_trivia
+play a game 1,games_trivia
+quiz time 2,games_trivia
+play a game 3,games_trivia
+quiz time 4,games_trivia
+play a game 0,games_trivia
+fun game 1,games_trivia
+start trivia 2,games_trivia
+start trivia 3,games_trivia
+fun game 4,games_trivia
+start trivia 0,games_trivia
+play a game 1,games_trivia
+start trivia 2,games_trivia
+quiz time 3,games_trivia
+play a game 4,games_trivia
+play a game 0,games_trivia
+play a game 1,games_trivia
+fun game 2,games_trivia
+start trivia 3,games_trivia
+fun game 4,games_trivia
+quiz time 0,games_trivia
+quiz time 1,games_trivia
+start trivia 2,games_trivia
+start trivia 3,games_trivia
+fun game 4,games_trivia
+play a game 0,games_trivia
+quiz time 1,games_trivia
+start trivia 2,games_trivia
+quiz time 3,games_trivia
+quiz time 4,games_trivia
+start trivia 0,games_trivia
+quiz time 1,games_trivia
+quiz time 2,games_trivia
+play a game 3,games_trivia
+quiz time 4,games_trivia
+fun game 0,games_trivia
+start trivia 1,games_trivia
+play a game 2,games_trivia
+fun game 3,games_trivia
+play a game 4,games_trivia
+fun game 0,games_trivia
+play a game 1,games_trivia
+start trivia 2,games_trivia
+play a game 3,games_trivia
+fun game 4,games_trivia
+play a game 0,games_trivia
+fun game 1,games_trivia
+fun game 2,games_trivia
+quiz time 3,games_trivia
+quiz time 4,games_trivia
+fun game 0,games_trivia
+start trivia 1,games_trivia
+play a game 2,games_trivia
+quiz time 3,games_trivia
+play a game 4,games_trivia
+start trivia 0,games_trivia
+fun game 1,games_trivia
+start trivia 2,games_trivia
+quiz time 3,games_trivia
+start trivia 4,games_trivia
+quiz time 0,games_trivia
+play a game 1,games_trivia
+play a game 2,games_trivia
+start trivia 3,games_trivia
+start trivia 4,games_trivia
+quiz time 0,games_trivia
+start trivia 1,games_trivia
+play a game 2,games_trivia
+start trivia 3,games_trivia
+play a game 4,games_trivia
+play a game 0,games_trivia
+quiz time 1,games_trivia
+quiz time 2,games_trivia
+start trivia 3,games_trivia
+quiz time 4,games_trivia
+fun game 0,games_trivia
+play a game 1,games_trivia
+quiz time 2,games_trivia
+start trivia 3,games_trivia
+play a game 4,games_trivia
+start trivia 0,games_trivia
+start trivia 1,games_trivia
+start trivia 2,games_trivia
+quiz time 3,games_trivia
+quiz time 4,games_trivia
+open youtube 0,open_website
+open website 1,open_website
+open website 2,open_website
+launch github 3,open_website
+open website 4,open_website
+go to google 0,open_website
+open website 1,open_website
+open youtube 2,open_website
+open youtube 3,open_website
+open youtube 4,open_website
+open website 0,open_website
+open website 1,open_website
+launch github 2,open_website
+go to google 3,open_website
+open youtube 4,open_website
+open website 0,open_website
+go to google 1,open_website
+launch github 2,open_website
+launch github 3,open_website
+open website 4,open_website
+open website 0,open_website
+open youtube 1,open_website
+go to google 2,open_website
+open youtube 3,open_website
+go to google 4,open_website
+launch github 0,open_website
+open website 1,open_website
+open website 2,open_website
+open youtube 3,open_website
+open website 4,open_website
+launch github 0,open_website
+launch github 1,open_website
+open youtube 2,open_website
+open youtube 3,open_website
+go to google 4,open_website
+launch github 0,open_website
+go to google 1,open_website
+launch github 2,open_website
+launch github 3,open_website
+open website 4,open_website
+launch github 0,open_website
+open website 1,open_website
+go to google 2,open_website
+open youtube 3,open_website
+open youtube 4,open_website
+open youtube 0,open_website
+launch github 1,open_website
+open website 2,open_website
+open youtube 3,open_website
+open youtube 4,open_website
+open youtube 0,open_website
+go to google 1,open_website
+launch github 2,open_website
+open website 3,open_website
+launch github 4,open_website
+open youtube 0,open_website
+launch github 1,open_website
+launch github 2,open_website
+open youtube 3,open_website
+go to google 4,open_website
+open youtube 0,open_website
+go to google 1,open_website
+open website 2,open_website
+launch github 3,open_website
+launch github 4,open_website
+open website 0,open_website
+open website 1,open_website
+open youtube 2,open_website
+go to google 3,open_website
+open website 4,open_website
+open youtube 0,open_website
+open youtube 1,open_website
+launch github 2,open_website
+launch github 3,open_website
+launch github 4,open_website
+open youtube 0,open_website
+go to google 1,open_website
+open website 2,open_website
+launch github 3,open_website
+launch github 4,open_website
+launch github 0,open_website
+launch github 1,open_website
+open website 2,open_website
+go to google 3,open_website
+go to google 4,open_website
+open youtube 0,open_website
+go to google 1,open_website
+launch github 2,open_website
+open youtube 3,open_website
+launch github 4,open_website
+launch github 0,open_website
+open youtube 1,open_website
+go to google 2,open_website
+launch github 3,open_website
+launch github 4,open_website
+open youtube 0,open_website
+launch github 1,open_website
+go to google 2,open_website
+open youtube 3,open_website
+open youtube 4,open_website
+launch github 0,open_website
+launch github 1,open_website
+open youtube 2,open_website
+open youtube 3,open_website
+open youtube 4,open_website
+open website 0,open_website
+open website 1,open_website
+launch github 2,open_website
+launch github 3,open_website
+launch github 4,open_website
+open youtube 0,open_website
+open youtube 1,open_website
+open youtube 2,open_website
+open website 3,open_website
+go to google 4,open_website
+launch github 0,open_website
+go to google 1,open_website
+open youtube 2,open_website
+go to google 3,open_website
+go to google 4,open_website
+open website 0,open_website
+go to google 1,open_website
+go to google 2,open_website
+launch github 3,open_website
+open website 4,open_website
+open website 0,open_website
+open youtube 1,open_website
+open youtube 2,open_website
+launch github 3,open_website
+launch github 4,open_website
+open youtube 0,open_website
+open youtube 1,open_website
+open website 2,open_website
+open youtube 3,open_website
+open youtube 4,open_website
+launch github 0,open_website
+launch github 1,open_website
+launch github 2,open_website
+launch github 3,open_website
+go to google 4,open_website
+launch github 0,open_website
+open youtube 1,open_website
+go to google 2,open_website
+open website 3,open_website
+launch github 4,open_website
+open youtube 0,open_website
+open website 1,open_website
+open website 2,open_website
+launch github 3,open_website
+launch github 4,open_website
+go to google 0,open_website
+open youtube 1,open_website
+open youtube 2,open_website
+launch github 3,open_website
+open website 4,open_website
+launch github 0,open_website
+open website 1,open_website
+launch github 2,open_website
+go to google 3,open_website
+open website 4,open_website
+launch github 0,open_website
+open youtube 1,open_website
+open youtube 2,open_website
+go to google 3,open_website
+launch github 4,open_website
+launch github 0,open_website
+go to google 1,open_website
+go to google 2,open_website
+go to google 3,open_website
+launch github 4,open_website
+set alarm by 7 o clock in evening,alarm
+set an alarm for 7 in the evening,alarm
+wake me at 7 pm,alarm
+alarm at 7 tonight,alarm
+set evening alarm for 7,alarm
+ring alarm at 7 pm,alarm
+schedule alarm 7 in evening,alarm
+put an alarm for 7 tonight,alarm
+remind me with alarm at 7 pm,alarm
+start alarm at 7 in the evening,alarm
+play song for me,play_music
+play a song for me,play_music
+can you play a song,play_music
+please play some song,play_music
+start a song,play_music
+i want to hear a song,play_music
+put on a song,play_music
+play music for me,play_music
+could you play music,play_music
+play any nice song,play_music
+play my favorite song,play_music
+play some good music,play_music
+play a track,play_music
+start playing a song,play_music
+music please,play_music
